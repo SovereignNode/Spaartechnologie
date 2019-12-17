@@ -1,13 +1,6 @@
-###### Principes
-- Simpel beginnen en bijleren is beter dan helemaal niet beginnen
-- Probeer dingen en lees de documentaties of gidsen als je vastzit
-- Houdt altijd volledige controle over je bitcoins (beheer je eigen sleutels)
-- Houdt focus en vermijdt scams (gebruik bitcoin-only tools & diensten)
 
-
-
-| Stap | Omschrijving                                   |Klaar|
-| ---- | -----------                                    |---  |
+| Stap | Omschrijving                                   | Voortgang|
+| ---- | -----------                                    | ---      |
 | 0.   | Voor we beginnen                               |     |
 | 1.   | Kies een Wallet                                |     |
 | 2.   | Koop wat bitcoin                               |     |
@@ -22,13 +15,18 @@
 | 11.  | Technische details                             |     |
 | 12.  | Anoniem aankopen                               |     |
 
+###### Principes
+- Simpel beginnen en bijleren is beter dan helemaal niet beginnen
+- Probeer dingen en lees de documentaties of gidsen als je vastzit
+- Neem altijd volledige controle over je bitcoins (beheer je eigen sleutels)
+- Behoudt focus en vermijdt scams (gebruik bitcoin-only tools & diensten)
+
+
 -----
 
 ## Stap 0. Voor we beginnen
 
-| I heb een printer | I heb geen printer |
-| --- | --- |
-| Print <a href="LINK NAAR PDF" target="_blank">deze PDF</a> & houdt je voortgang bij in de `Klaar` kolom. | Plaats <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">deze PDF</a> op jouw bureaublad & houdt je voortgang bij door de PDF te hernoemen met het nummer van de volgende les (bv. `bitcoin-intro-Les2.pdf`) |
+Print <a href="LINK NAAR PDF" target="_blank">deze PDF</a> & houdt je voortgang bij in de voorziene kolom.
 
 -----
 
@@ -38,24 +36,24 @@
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Maak een nieuwe wallet aan en schrijf de 24 woorden op die getoond worden. Deze 24 woorden doen dienst als sleutel om toegang te hebben tot jouw bitcoin.
 3.  Maak nog een kopie van deze woorden en zoek een geheime/veilige plaats voor ze.
-4.	In Green wallet, klik op `receive` of `ontvangen` en kopieer het adres dat getoond wordt op het scherm. Dit kan je doen door op de QR code te klikken.
+4.	In Green wallet, klik op `receive` / `ontvangen` en kopieer het adres dat getoond wordt op het scherm. Dit kan je doen door op de QR code te klikken.
 
 -----
 
 ## Stap 2. Koop wat bitcoin
 *Doel: Schaf een kleine hoeveelheid bitcoin aan.*
 
-- Koop slechts een kleine hoeveelheid bitcoin om te starten (in een latere Stap zullen we onze backup verbeteren).
+- Koop slechts een kleine hoeveelheid bitcoin om te starten (in een latere stap zullen we onze backup verbeteren voor grotere hoeveelheden bitcoin).
 - Onderstaande opties laten je toe om makkelijk bitcoin aan te kopen in ruil voor minder privacy.
 - Om anoniem aan te kopen, zie dan <a href="#Stap-12-Anoniem=aankopen" target="_blank">Stap 12.</a>
 
 
 ##### EU (Bittr - 1.5% Fee)
-0.  Bekijk de reputatie van bittr op <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
+0.  Bekijk de reputatie van Bittr op <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
 1.	Ga naar de site van <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Geef je e-mail en telefoonnummer in.
-3.	Kopieer je bitcoin adres uit Stap 1.
-4.  Kopieer de referentie van bittr en stuur 25 EUR van je persoonlijke bankrekening naar de bankdetails van bittr via SEPA (zoals aangegeven in de mail die je ontving).
+3.	Kopieer je bitcoin-adres uit Stap 1 naar de site van Bittr.
+4.  Kopieer de referentie van Bittr en stuur 25 EUR van je persoonlijke bankrekening naar de bankdetails van Bittr via SEPA (zoals ook aangegeven in de mail die je ontving).
 5.	Wacht tot je bitcoin verschijnen in Green wallet (< 24 uur).
 
 Gefeliciteerd! Je hebt nu je eerste BTC in je spaarpotje. Zolang je de 24 woordjes uit Stap 1 veilig houdt can niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` woorden of `private key` genoemd, krijgt niemand toegang tot jouw bitcoin wallet.
