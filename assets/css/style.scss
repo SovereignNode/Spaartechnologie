@@ -1,8 +1,7 @@
 ---
 ---
-$header-bg-color: #000 !default;
 
-@import 'mytheme';
+@import "{{ site.theme }}";
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
