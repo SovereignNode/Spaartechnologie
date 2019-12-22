@@ -2,7 +2,7 @@
 ---
 $header-bg-color: #000 !default;
 
-@import "mytheme";
+@import 'mytheme';
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
