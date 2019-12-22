@@ -1,20 +1,3 @@
-
-| Stap | Omschrijving                                   | Voortgang|
-| ---- | -----------                                    | ---      |
-| 0.   | Voor we beginnen                               |     |
-| 1.   | Kies een Wallet                                |     |
-| 2.   | Koop wat bitcoin                               |     |
-| 3.   | Waarom bitcoin gebruiken?                      |     |
-| 4.   | Wat is bitcoin?                                |     |
-| 5.   | Leer meer                                      |     |
-| 6.   | Betere backup                                  |     |
-| 7.   | Run je eigen Node                              |     |
-| 8.   | Neem deel                                      |     |
-| 9.   | Bitcoin Privacy                                |     |
-| 10.  | Bitcoin MicroPayments (Lightning)              |     |
-| 11.  | Technische details                             |     |
-| 12.  | Anoniem aankopen                               |     |
-
 ###### Principes
 - Simpel beginnen en bijleren is beter dan helemaal niet beginnen
 - Probeer dingen en lees de documentaties of gidsen als je vastzit
@@ -26,7 +9,7 @@
 
 ## Stap 0. Voor we beginnen
 
-Print <a href="LINK NAAR PDF" target="_blank">deze PDF</a> & houdt je voortgang bij in de voorziene kolom.
+Print <a href="https://github.com/SovereignNode/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">deze PDF</a> & houdt je voortgang bij in de voorziene kolom door stap voor stap af te vinken.
 
 -----
 
