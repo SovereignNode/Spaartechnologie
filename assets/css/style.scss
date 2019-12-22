@@ -1,7 +1,5 @@
 ---
 ---
-$header-bg-color: #fff !default;
-$header-bg-color-secondary: #155799 !default;
 
 @import "{{ site.theme }}";
 
@@ -111,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: #000;
 
   @include large {
     padding: 5rem 6rem;
