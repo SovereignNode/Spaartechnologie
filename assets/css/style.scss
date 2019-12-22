@@ -1,5 +1,6 @@
 ---
 ---
+$header-bg-color: #000 !default;
 
 @import "{{ site.theme }}";
 
@@ -109,7 +110,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: #000;
+  background-image: $header-bg-color;
 
   @include large {
     padding: 5rem 6rem;
