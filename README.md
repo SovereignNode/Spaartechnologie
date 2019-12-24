@@ -34,11 +34,8 @@ Lees de bijhorende [gids](https://bewijsvanwerk.com/green-wallet/). Deze gids is
 - Onderstaande opties laten je toe om makkelijk bitcoin aan te kopen in ruil voor minder privacy.
 - Om anoniem aan te kopen, zie dan <a href="#Stap-12-Anoniem=aankopen" target="_blank">Stap 12.</a>
 
-Lees [Hoe investeer je verantwoord in Bitcoin](https://getbittr.com/nl/blog/how-to-invest-responsibly-in-bitcoin).
-
-
 ##### EU (Bittr - 1.5% Fee)
-1.	Ga naar de site van <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
+1.	Ga naar de site van <a href="https://getbittr.com/nl/save-bitcoin" target="_blank">Bittr</a>.
 2.	Geef je e-mail en telefoonnummer in.
 3.	Kopieer je bitcoin-adres uit Stap 1 (punt 5) naar de site van Bittr.
 4.  Kopieer de referentie van Bittr en stuur 25 EUR van je persoonlijke bankrekening naar de bankdetails van Bittr via SEPA (zoals ook aangegeven in de mail die je ontving).
@@ -47,6 +44,9 @@ Lees [Hoe investeer je verantwoord in Bitcoin](https://getbittr.com/nl/blog/how-
 Gefeliciteerd! Je hebt nu je eerste BTC in je spaarpotje. Zolang je de 24 woordjes uit Stap 1 veilig houdt kan niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` woorden of `private key` genoemd, krijgt niemand toegang tot jouw bitcoin wallet.
 
 Wanneer je de eerste bitcoin hebt ontvangen in jouw spaarpotje ben je zeker dat alle informatie correct is doorgegeven. Je kan nu eventueel een doorlopende opdracht instellen via jouw bank om op vaste intervallen aan te kopen. Vergeet daarbij niet telkens de juiste referentie mee te geven zodat Bittr weet van wie de overschrijving komt.
+
+Lees: [Hoe investeer je verantwoord in Bitcoin](https://getbittr.com/nl/blog/how-to-invest-responsibly-in-bitcoin).
+
 
 Op [deze pagina](https://getbittr.com/nl/savings-calculator) kan je zien hoeveel bitcoin ja al had kunnen sparen als je in het verleden begonnen was met het sparen van bitcoin. Historisch rendement is uiteraard geen garantie op toekomstige rendementen. Het goede nieuws is dat jouw relatief aandeel van de 21 miljoen eenheden bitcoins nooit zal veranderen.
 
