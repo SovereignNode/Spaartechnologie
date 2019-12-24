@@ -17,13 +17,13 @@ Print <a href="https://github.com/SovereignNode/bitcoin-intro/raw/master/bitcoin
 ## Stap 1. Kies een wallet
 *Doel: Maak een wallet aan en neem een backup.*
 
+Lees de bijhorende [gids](https://bewijsvanwerk.com/green-wallet/). Deze gids is uitgebreid gedocumenteerd met foto's en extra informatie.
+
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Maak een nieuwe wallet aan en schrijf de 24 woorden op die getoond worden.
 3.  Maak nog een kopie van deze woorden bewaar ze veilig.
 4.	In Green wallet, klik op `receive` / `ontvangen`. 
 5.  Kopieer het adres dat getoond wordt door op de QR code te klikken.
-
-Lees de bijhorende [gids](https://bewijsvanwerk.com/green-wallet/). Deze gids is uitgebreid gedocumenteerd met foto's en extra informatie.
 
 -----
 
