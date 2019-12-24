@@ -1,9 +1,10 @@
 ###### Principes
-- Simpel beginnen en bijleren is beter dan helemaal niet beginnen
-- Probeer dingen en lees de documentaties of gidsen als je vastzit
+- Simpel beginnen en bijleren is beter dan helemaal niet beginnen.
+- Experimenteer en probeer nieuwe dingen die nog onbekend voor je zijn.
+- Begin met kleine bedragen tot je meer vertrouwen hebt in jouw begrip van de technologie.
+- Lees documentaties en zoek hulp wanneer je vastzit.
 - Neem altijd volledige controle over je bitcoins (beheer je eigen sleutels)
-- Behoudt focus en vermijdt scams (gebruik bitcoin-only tools & diensten)
-
+- Behoudt focus en vermijdt scams (gebruik alleen Bitcoin producten & diensten)
 
 -----
 
@@ -17,9 +18,12 @@ Print <a href="https://github.com/SovereignNode/bitcoin-intro/raw/master/bitcoin
 *Doel: Maak een wallet aan en neem een backup.*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Maak een nieuwe wallet aan en schrijf de 24 woorden op die getoond worden. Deze 24 woorden doen dienst als sleutel om toegang te hebben tot jouw bitcoin.
-3.  Maak nog een kopie van deze woorden en zoek een geheime/veilige plaats voor ze.
-4.	In Green wallet, klik op `receive` / `ontvangen` en kopieer het adres dat getoond wordt op het scherm. Dit kan je doen door op de QR code te klikken.
+2.	Maak een nieuwe wallet aan en schrijf de 24 woorden op die getoond worden.
+3.  Maak nog een kopie van deze woorden bewaar ze veilig.
+4.	In Green wallet, klik op `receive` / `ontvangen`. 
+5.  Kopieer het adres dat getoond wordt door op de QR code te klikken.
+
+Lees de bijhorende [gids](https://bewijsvanwerk.com/green-wallet/). Deze gids is uitgebreid gedocumenteerd met foto's en extra informatie.
 
 -----
 
@@ -30,48 +34,25 @@ Print <a href="https://github.com/SovereignNode/bitcoin-intro/raw/master/bitcoin
 - Onderstaande opties laten je toe om makkelijk bitcoin aan te kopen in ruil voor minder privacy.
 - Om anoniem aan te kopen, zie dan <a href="#Stap-12-Anoniem=aankopen" target="_blank">Stap 12.</a>
 
+Lees [Hoe investeer je verantwoord in Bitcoin](https://getbittr.com/nl/blog/how-to-invest-responsibly-in-bitcoin).
+
 
 ##### EU (Bittr - 1.5% Fee)
-0.  Bekijk de reputatie van Bittr op <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
 1.	Ga naar de site van <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Geef je e-mail en telefoonnummer in.
-3.	Kopieer je bitcoin-adres uit Stap 1 naar de site van Bittr.
+3.	Kopieer je bitcoin-adres uit Stap 1 (punt 5) naar de site van Bittr.
 4.  Kopieer de referentie van Bittr en stuur 25 EUR van je persoonlijke bankrekening naar de bankdetails van Bittr via SEPA (zoals ook aangegeven in de mail die je ontving).
 5.	Wacht tot je bitcoin verschijnen in Green wallet (< 24 uur).
 
-Gefeliciteerd! Je hebt nu je eerste BTC in je spaarpotje. Zolang je de 24 woordjes uit Stap 1 veilig houdt can niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` woorden of `private key` genoemd, krijgt niemand toegang tot jouw bitcoin wallet.
+Gefeliciteerd! Je hebt nu je eerste BTC in je spaarpotje. Zolang je de 24 woordjes uit Stap 1 veilig houdt kan niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` woorden of `private key` genoemd, krijgt niemand toegang tot jouw bitcoin wallet.
 
+Wanneer je de eerste bitcoin hebt ontvangen in jouw spaarpotje ben je zeker dat alle informatie correct is doorgegeven. Je kan nu eventueel een doorlopende opdracht instellen via jouw bank om op vaste intervallen aan te kopen. Vergeet daarbij niet telkens de juiste referentie mee te geven zodat Bittr weet van wie de overschrijving komt.
+
+Op [deze pagina](https://getbittr.com/nl/savings-calculator) kan je zien hoeveel bitcoin ja al had kunnen sparen als je in het verleden begonnen was met het sparen van bitcoin. Historisch rendement is uiteraard geen garantie op toekomstige rendementen. Het goede nieuws is dat jouw relatief aandeel van de 21 miljoen eenheden bitcoins nooit zal veranderen.
 
 -----
 
 ## Stap 3. Waarom Bitcoin gebruiken?
 *Doel: Leer waarom bitcoin nuttig is*
 
-(Engels)
-1. Lees '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
-2. Lees '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay)
-3. Bekijk '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
-
------
-
-## Stap 4. Wat is Bitcoin?
-*Doel: Leer wat bitcoin precies is*
-
-1. Lees '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
-2. Bekijk '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
-
------
-
-## Stap 5. Leer meer
-*Doel: Ontwikkel een dieper begrip over Bitcoin*
-
-###### Luister (Engels)
-1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
-2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
-
-###### Lees (Engels)
-1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
-2. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
-3. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
-
-
+Wordt vervolgd. Je kan je alvast inschrijven op [deze pagina](https://bewijsvanwerk.com/subscribe) om nieuwe artikels via mail te ontvangen.

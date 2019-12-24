@@ -1,0 +1,16 @@
+
+| Stap | Omschrijving                                   | Voortgang|
+| ---- | -----------                                    | ---      |
+| 0.   | Voor we beginnen                               |     |
+| 1.   | Kies een Wallet                                |     |
+| 2.   | Koop bitcoin                                   |     |
+| 3.   | Waarom bitcoin gebruiken?                      |     |
+| 4.   | Wat is bitcoin?                                |     |
+| 5.   | Leer meer                                      |     |
+| 6.   | Betere backup                                  |     |
+| 7.   | Run je eigen Node                              |     |
+| 8.   | Neem deel                                      |     |
+| 9.   | Bitcoin Privacy                                |     |
+| 10.  | Bitcoin Lightning                              |     |
+| 11.  | Technische details                             |     |
+| 12.  | Anoniem aankopen                               |     |
