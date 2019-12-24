@@ -55,4 +55,4 @@ Op [deze pagina](https://getbittr.com/nl/savings-calculator) kan je zien hoeveel
 ## Stap 3. Waarom Bitcoin gebruiken?
 *Doel: Leer waarom bitcoin nuttig is*
 
-Wordt vervolgd. Je kan je alvast inschrijven op [deze pagina](https://bewijsvanwerk.com/subscribe) om nieuwe artikels via mail te ontvangen.
+Wordt vervolgd. Je kan je alvast inschrijven op [deze pagina](https://bewijsvanwerk.com/#subscribe) om nieuwe artikels via mail te ontvangen.
