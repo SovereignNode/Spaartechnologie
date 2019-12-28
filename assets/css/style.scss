@@ -175,7 +175,7 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 0.85rem;
+    font-size: 0.90rem;
   }
 
   @include medium {
@@ -185,7 +185,7 @@ a {
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 0.75rem;
+    font-size: 0.80rem;
   }
 
   kbd {
@@ -225,7 +225,7 @@ a {
   code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 0.85rem;
+    font-size: 0.80rem;
     color: $code-text-color;
     background-color: $code-bg-color;
     border-radius: 0.3rem;
@@ -235,7 +235,7 @@ a {
     padding: 0.8rem;
     margin-top: 0;
     margin-bottom: 1rem;
-    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 0.80rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
@@ -245,7 +245,7 @@ a {
     > code {
       padding: 0;
       margin: 0;
-      font-size: 0.85rem;
+      font-size: 0.80rem;
       color: $code-text-color;
       word-break: normal;
       white-space: pre;
