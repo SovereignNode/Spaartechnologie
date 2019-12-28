@@ -4,6 +4,7 @@
 $header-heading-color: #fff !default;
 $header-bg-color: #000 !default;
 $header-bg-color-secondary: #000 !default;
+$section-headings-color: #ed8a21 !default;
 
 @import "{{ site.theme }}";
 
@@ -33,9 +34,10 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   color: $body-text-color;
+  text-align: justify;
 }
 
 #skip-to-content {
@@ -185,7 +187,7 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
-  
+
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
