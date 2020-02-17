@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stap 1: Kies een wallet
-nav_order: 02
+nav_order: 01
 ---
 
 ## Stap 1. Kies een wallet

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stap 2: Koop wat bitcoin
+title: Stap 2: Koop bitcoin
 nav_order: 02
 ---
 

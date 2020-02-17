@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stap 0: Voor we beginnen
-nav_order: 01
+nav_order: 00
 ---
 
 ## Stap 0. Voor we beginnen

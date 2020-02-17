@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Stap 3: Waarom Bitcoin gebruiken?
-nav_order: 02
+title: Stap 3: Waarom Bitcoin?
+nav_order: 03
 ---
 
 ## Stap 3. Waarom Bitcoin gebruiken?
