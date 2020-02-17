@@ -9,4 +9,5 @@ title: Start met Bitcoin
 - Lees documentaties en zoek hulp wanneer je vastzit.
 - Neem altijd volledige controle over je bitcoins (beheer je eigen sleutels)
 - Behoudt focus en vermijdt scams (gebruik alleen Bitcoin producten & diensten)
+
 ---
