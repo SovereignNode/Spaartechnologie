@@ -4,3 +4,5 @@ search_enabled: true
 aux_links:
     "Contribute! Source on GitHub":
       - "https://github.com/SovereignNode/bitcoin-intro/"
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/banner.jpg"
