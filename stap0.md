@@ -1,23 +1,9 @@
 ---
 layout: default
-title: Stap 0
+title: Stap 0: Voor we beginnen
 nav_order: 01
 ---
-<!-- markdownlint-disable MD014 MD022 MD025 MD040 -->
-# Preparations
-{: .no_toc }
 
-Let's get all the required parts and assemble the Raspberry Pi.
+## Stap 0. Voor we beginnen
 
----
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-This guide builds on the easily available and very flexible Raspberry Pi 4.
-This amazing piece of hardware is a tiny computer-on-a-chip, costs about $60 and consumes very little energy.
+Print <a href="https://github.com/SovereignNode/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">deze PDF</a> & houdt je voortgang bij in de voorziene kolom door stap voor stap af te vinken.

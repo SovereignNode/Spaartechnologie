@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Start met Bitcoin
 ---
 
 ## Principes
