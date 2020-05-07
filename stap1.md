@@ -13,4 +13,4 @@ nav_order: 01
 4.	In Green wallet, klik op `receive` / `ontvangen`.
 5.  Kopieer het adres dat getoond wordt door op de QR code te klikken.
 
-Lees: [Hoe maak ik een wallet aan?](https://bewijsvanwerk.com/green-wallet/).
+Lees: <a href="https://bewijsvanwerk.com/green-wallet/" target="_blank">Hoe maak ik een wallet aan?</a>.
