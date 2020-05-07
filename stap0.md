@@ -1,7 +1,4 @@
----
-layout: default
-title: Stap 0: Voor we beginnen
----
+
 
 ## Stap 0. Voor we beginnen
 
