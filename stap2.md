@@ -10,23 +10,22 @@ nav_order: 02
 
 - Koop slechts een kleine hoeveelheid bitcoin om te starten (in een latere stap zullen we onze backup verbeteren).
 - Onderstaande opties laten je toe om makkelijk bitcoin aan te kopen in ruil voor minder privacy.
-- Om anoniem aan te kopen, zie dan <a href="#Stap-12-Anoniem=aankopen" target="_blank">Stap 12.</a>
 
 ##### Kraken (SEPA)
 
-1. Maak een nieuwe account op [Kraken](https://www.kraken.com)
+1. Maak een nieuwe account op <a href="https://www.kraken.com" target="_blank">Kraken</a>
 2. Doorloop de KYC/AML procedure door een kopie van jouw identiteitskaart en een bewijs van woonst aan te leveren.
 3. Schrijf via SEPA over naar kraken
 4. Koop bitcoin
-5. Verstuur je bitcoins van Kraken naar jouw eigen wallet (zie stap 1)
+5. Verstuur je bitcoins van Kraken naar jouw eigen wallet (zie [Stap 1](https://start.bewijsvanwerk.com/stap1.html))
 
 
 ##### Bitonic (Bancontact)
 
-1. Kies een bedrag
-2. Geef uw bitcoinadres op (zie stap 1)
-3. Geef uw e-mailadres op
-4. Geef uw rekeningnummer op
+1. Ga naar <a href="https://www.bitonic.nl" target="_blank">Bitonic</a> en kies een bedrag voor jouw eerste aankoop
+2. Geef een bitcoinadres op (zie stap 1)
+3. Geef een e-mailadres op
+4. Geef jouw rekeningnummer op
 5. Betaal
 6. Doorlopg de KYC/AML procedure.
 
