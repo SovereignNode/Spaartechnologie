@@ -5,7 +5,7 @@ nav_order: 02
 ---
 
 
-## Stap 2. Koop wat bitcoin
+## Stap 1. Koop wat bitcoin
 *Doel: Schaf een kleine hoeveelheid bitcoin aan.*
 
 - Koop slechts een kleine hoeveelheid bitcoin om te starten (in een latere stap zullen we onze backup verbeteren).
@@ -16,8 +16,8 @@ nav_order: 02
 1. Download de Relai-app voor <a href="https://apps.apple.com/app/id1513185997" target="_blank">iOS</a> of voor <a href="https://play.google.com/store/apps/details?id=com.relai" target="_blank">Android</a>.
 2. Open de applicatie en scroll door de boodschappen.
 3. Accepteer de voorwaarden en kies een PIN-code.
-4. Neem een back-up van jouw wallet over op papier
-5. Kies euro als de standaardmunt.
+4. Neem een back-up van jouw wallet op papier (12 woorden).
+5. Kies euro als jouw favoriete munt.
 6. Koop 20 euro aan bitcoin.
 7. Geef jouw IBAN rekeningnummer en gebruik referral-code **REL052** (0.5% korting).
 8. Schrijf over via jouw banking-app over naar Relai (vergeet de juiste referentie niet toe te voegen)

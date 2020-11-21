@@ -4,7 +4,7 @@ title: Stap 2: Kies een wallet
 nav_order: 03
 ---
 
-## Stap 1. Kies een wallet
+## Stap 2. Kies een wallet
 *Doel: Maak een wallet aan en neem een backup.*
 
 ### Optie 1: Green Wallet
