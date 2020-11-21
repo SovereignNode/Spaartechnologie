@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stap 2: Koop bitcoin
-nav_order: 02
+nav_order: 03
 ---
 
 
