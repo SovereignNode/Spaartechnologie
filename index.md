@@ -1,5 +1,6 @@
 ---
 title: Start met Bitcoin
+nav_order: 00
 ---
 
 ## Principes
