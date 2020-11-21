@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
-title: Stap 4: Wat is Bitcoin?
+title: Stap 4: Probeer een transactie te maken.
 nav_order: 04
 ---
 
-## Stap 4. Wat is Bitcoin?
-*Doel: Leer wat Bitcoin is*
+## Stap 4. Probeer een transactie te maken?
+*Doel: Leer hoe je het netwerk gebruikt om transacties te doen*
 
-- Lees de artikels op ['Bewijs van Werk'](https://bewijsvanwerk.com/tag/blog/). -->
+- Verstuur van jouw Relai-app naar Blue Wallet ['Hoe verstuur ik bitcoins op het netwerk'](https://bewijsvanwerk.com/een-transactie-versturen-op-het-netwerk/).
