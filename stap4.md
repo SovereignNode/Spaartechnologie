@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stap 4: Probeer een transactie te maken.
-nav_order: 04
+nav_order: 05
 ---
 
 ## Stap 4. Probeer een transactie te maken?
