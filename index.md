@@ -12,11 +12,12 @@ nav_order: 01
 - Behoudt focus en vermijdt scams (gebruik alleen Bitcoin producten & diensten)
 
 ## Veelgestelde Vragen
-**Wat is Bitcoin?**
+
+### Wat is Bitcoin?
 
 Bitcoin is een peer-to-peer netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar anderen op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden zoals ons vertrouwde geld dat heeft. Het is cash om te gebruiken op het internet.
 
-**Waarom is Bitcoin belangrijk?**
+### Waarom is Bitcoin belangrijk?
 
 Het laat ons toe om over grenzen heen betalingen te doen die resistent zijn aan censuur en cryptografisch beveiligd zijn. Het is onze eerste en enige vorm van absolute digitale schaarste en wordt niet gecontroleerd door één enkele persoon of groep. Het kan dus niet gesaboteerd worden door overheden.
 
@@ -75,4 +76,5 @@ Deelnemers brengen grote hoeveelheden rekenkracht aan om transacties te groepere
 **Waar kan ik bitcoins kopen?**
 
 Er zijn zeer veel online beurzen waar je bitcoins kan kopen. Doe echter voldoende onderzoek en zoek een beurs waar je vertrouwen in hebt. De beste manier om bitcoins te kopen blijft om ze via een vertrouwde vriend of familielid te verwerven. Belangrijk: je kan een fractie van een bitcoin kopen (er zijn 100 miljoen sats per bitcoin).
+
 ---
