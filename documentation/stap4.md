@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Stap 4: Probeer een transactie te maken.
-nav_order: 05
+show_in_menu: false
 ---
 
 ## Stap 4. Probeer een transactie te maken?

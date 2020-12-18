@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Stap 2: Kies een wallet
-nav_order: 03
+show_in_menu: false
 ---
 
 ## Stap 2. Kies een wallet

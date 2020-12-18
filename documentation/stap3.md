@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Stap 3: Wat is Bitcoin?
-nav_order: 04
+show_in_menu: false
 ---
 
 ## Stap 3. Wat is Bitcoin?
