@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Stap 3: Wat is Bitcoin?
+title: Stap 3 - Wat is Bitcoin?
 show_in_menu: false
+disable_anchors: true
 ---
 
 ## Stap 3. Wat is Bitcoin?
