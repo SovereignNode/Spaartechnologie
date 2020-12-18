@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Stap 1: Koop wat bitcoin
-description: Doel: Schaf een kleine hoeveelheid bitcoin aan
 show_in_menu: false
 ---
 
