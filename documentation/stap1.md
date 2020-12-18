@@ -2,6 +2,7 @@
 layout: page
 title: Stap 1: Koop wat bitcoin
 show_in_menu: false
+disable_anchors: true
 ---
 
 
