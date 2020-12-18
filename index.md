@@ -1,5 +1,5 @@
 ---
-layout: full
+layout: page
 homepage: true
 disable_anchors: true
 description: Starten met Bitcoin
