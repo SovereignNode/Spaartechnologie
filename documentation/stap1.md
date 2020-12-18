@@ -36,5 +36,5 @@ Gefeliciteerd! Je hebt nu je eerste BTC in je spaarpotje. Jouw transactie wordt 
 
 Zolang je de 12 uit jouw Relai app veilig houdt, kan niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` of `geheime sleutel` genoemd) krijgt niemand toegang tot jouw spaarpotje.
 
-[Verder gaan](stap2.md)
+[Verder gaan](stap2.md) --
 [Terug naar overzicht](overzicht.md)

@@ -24,5 +24,5 @@ Lees: <a href="https://bewijsvanwerk.com/green-wallet/" target="_blank">Hoe maak
 
 Lees: <a href="https://bewijsvanwerk.com/introductie-tot-bluewallet/" target="_blank">Introductie tot Blue Wallet</a>.
 
-[Verder gaan](stap3.md)
-[Terug naar overzicht](overzicht.md)
+[Verder gaan](stap3.md) --
+[Terug naar overzicht](documentation/overzicht.md)

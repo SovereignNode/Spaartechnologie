@@ -27,5 +27,5 @@ Engels
 - Bekijk ['The Bitcoin Standard'](https://www.youtube.com/watch?v=Zbm772vF-5M) van Saifadeen Ammous
 - Luister ['Intro to Bitcoin Austrian thought'](https://youtu.be/OrMHQhDKhrU) van Stephan Livera
 
-[Verder gaan](stap4.md)
-[Terug naar overzicht](overzicht.md)
+[Verder gaan](stap4.md) --
+[Terug naar overzicht](documentation/overzicht.md)
