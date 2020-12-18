@@ -1,5 +1,7 @@
 #theme: jekyll-theme-minimal
-remote_theme: pmarsceill/just-the-docs
+remote_theme: allejo/jekyll-docs-theme@v1.0.0
+
+
 search_enabled: true
 aux_links:
     "Terug naar Bewijs van Werk":
