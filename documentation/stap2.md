@@ -23,3 +23,6 @@ Lees: <a href="https://bewijsvanwerk.com/green-wallet/" target="_blank">Hoe maak
 4.  Kopieer het adres dat getoond wordt door op de QR code te klikken.
 
 Lees: <a href="https://bewijsvanwerk.com/introductie-tot-bluewallet/" target="_blank">Introductie tot Blue Wallet</a>.
+
+[Verder gaan](stap3.md)
+[Terug naar overzicht](overzicht.md)

@@ -66,4 +66,5 @@ Er zijn zeer veel online beurzen waar je bitcoins kan kopen. Doe echter voldoend
 
 ## Volgende Stappen
 De beste manier om te starten met Bitcoin is om een kleine hoeveelheid aan te schaffen. Wanneer je de volgende stap afwerkt zal je reeds je eerste bitcoin in jouw spaarpotje hebben. Dat kan al vanaf 10 euro. Bitcoin sparen is mogelijk voor iedereen.
----
+
+[Verder gaan](overzicht.md)
