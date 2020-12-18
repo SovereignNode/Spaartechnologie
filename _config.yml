@@ -1,11 +1,74 @@
 #theme: jekyll-theme-minimal
 remote_theme: allejo/jekyll-docs-theme@v1.0.0
 
+# name of the software
+name: Jekyll Docs Theme
 
-search_enabled: true
-aux_links:
-    "Terug naar Bewijs van Werk":
-      - "https://bewijsvanwerk.com"
-    "Help mee! Draag bij op Github":
-      - "https://github.com/SovereignNode/bitcoin-intro/"
-# Set a path/url to a logo that will be displayed instead of the title
+project:
+  version: 1.0.0
+  download_url: https://github.com/allejo/jekyll-docs-theme/releases
+  download_text: Download
+
+license:
+  software: MIT License
+  software_url: https://opensource.org/licenses/MIT
+
+  docs: CC BY 3.0
+  docs_url: https://creativecommons.org/licenses/by/3.0/
+
+links:
+  header:
+    - title: GitHub
+      icon: github
+      brand: true
+      url: https://github.com/SovereignNode/Spaartechnologie
+  homepage:
+    - title: Bewijs van Werk
+      icon: github
+      brand: true
+      url: https://bewijsvanwerk.com/
+  footer:
+    - title: GitHub
+      icon: github
+      brand: true
+      url: https://github.com/SovereignNode/Spaartechnologie
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/sovereignhodler
+
+ui:
+  mode: 'auto' # 'auto', 'dark', 'light'
+  brand:
+    dark: "#00ceff"
+    light: "#a20000"
+  border_color:
+    dark: "#5f5f5f"
+    light: "#dee2e6"
+  header:
+    trianglify: true
+    dark:
+      color1: "#062a48"
+      color2: "#304e67"
+    light:
+      color1: "#080331"
+      color2: "#673051"
+  masthead:
+    color:
+      dark: "#fff"
+      light: "#fff"
+    align:
+      homepage: 'center'
+      page: 'left'
+
+social:
+  github:
+    user: SovereignNode
+    repo: Spaartechnologie
+  twitter:
+    enabled: true
+    via:
+    hash:
+    account:
+  facebook:
+    enabled: true
+    profileUrl:
