@@ -33,7 +33,7 @@ links:
       brand: true
       url: https://github.com/SovereignNode/Spaartechnologie
     - title: Contact
-      icon: issues
+      icon: bug
       url: https://twitter.com/sovereignhodler
 
 ui:
