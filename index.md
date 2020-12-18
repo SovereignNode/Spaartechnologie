@@ -4,11 +4,10 @@ nav_order: 01
 ---
 
 ## Principes
-- Simpel beginnen en bijleren is beter dan helemaal niet beginnen.
+- Simpel beginnen en gaandeweg bijleren is beter dan helemaal niet beginnen.
 - Experimenteer en probeer nieuwe dingen die nog onbekend voor je zijn.
-- Begin met kleine bedragen tot je meer vertrouwen hebt in jouw begrip van de technologie.
-- Lees documentaties en zoek hulp wanneer je vastzit.
-- Neem altijd volledige controle over je bitcoins (beheer je eigen sleutels)
+- Begin met kleine bedragen tot je meer vertrouwen hebt in de technologie.
+- Neem altijd volledige controle over jouw bitcoins (beheer je eigen sleutels)
 - Behoudt focus en vermijdt scams (gebruik alleen Bitcoin producten & diensten)
 
 ## Veelgestelde Vragen
@@ -61,4 +60,6 @@ Deelnemers brengen grote hoeveelheden rekenkracht aan om transacties te groepere
 ### Waar kan ik bitcoins kopen?
 Er zijn zeer veel online beurzen waar je bitcoins kan kopen. Doe echter voldoende onderzoek en zoek een beurs waar je vertrouwen in hebt. De beste manier om bitcoins te kopen blijft om ze via een vertrouwde vriend of familielid te verwerven. Belangrijk: je kan een fractie van een bitcoin kopen (er zijn 100 miljoen sats per bitcoin).
 
+## Volgende Stappen
+De beste manier om te starten met Bitcoin is om een kleine hoeveelheid aan te schaffen. Wanneer je de volgende stap afwerkt zal je reeds je eerste bitcoin in jouw spaarpotje hebben. Dat kan al vanaf 10 euro. Bitcoin sparen is mogelijk voor iedereen.
 ---
