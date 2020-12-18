@@ -2,7 +2,7 @@
 remote_theme: allejo/jekyll-docs-theme@v1.0.0
 
 # name of the software
-name: Jekyll Docs Theme
+name: Spaartechnologie
 
 project:
   version: 1.0.0
@@ -61,9 +61,6 @@ ui:
       page: 'left'
 
 social:
-  github:
-    user: SovereignNode
-    repo: Spaartechnologie
   twitter:
     enabled: true
     via:

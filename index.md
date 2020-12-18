@@ -1,7 +1,11 @@
 ---
-title: Start met Bitcoin
-nav_order: 01
+layout: full
+homepage: true
+disable_anchors: true
+description: Starten met Bitcoin
 ---
+
+Wat is de bedoeling van deze site?
 
 ## Principes
 - Simpel beginnen en gaandeweg bijleren is beter dan helemaal niet beginnen.

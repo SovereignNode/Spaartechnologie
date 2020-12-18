@@ -1,4 +1,5 @@
-
+---
+show_in_menu
 
 <!-- ## Stap 0. Voor we beginnen
 
