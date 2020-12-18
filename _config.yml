@@ -50,8 +50,8 @@ ui:
       color1: "#062a48"
       color2: "#304e67"
     light:
-      color1: "#f7931a"
-      color2: "#b64005"
+      color1: "#b64005"
+      color2: "#f7931a"
   masthead:
     color:
       dark: "#fff"
