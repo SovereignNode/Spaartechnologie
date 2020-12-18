@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Stap 2: Kies een wallet
+title: Stap 2 - Kies een wallet
 show_in_menu: false
+disable_anchors: true
 ---
 
 ## Stap 2. Kies een wallet

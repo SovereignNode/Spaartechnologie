@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Stap 4: Probeer een transactie te maken.
+title: Stap 4 - Een transactie versturen.
 show_in_menu: false
+disable_anchors: true
 ---
 
 ## Stap 4. Probeer een transactie te maken?
