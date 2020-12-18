@@ -18,10 +18,10 @@ license:
 
 links:
   header:
-    - title: GitHub
+    - title: Bewijs van Werk
       icon: github
       brand: true
-      url: https://github.com/SovereignNode/Spaartechnologie
+      url: https://bewijsvanwerk.com/
   homepage:
     - title: Bewijs van Werk
       icon: github
@@ -32,8 +32,8 @@ links:
       icon: github
       brand: true
       url: https://github.com/SovereignNode/Spaartechnologie
-    - title: Twitter
-      icon: twitter
+    - title: Contact
+      icon: issues
       url: https://twitter.com/sovereignhodler
 
 ui:
@@ -51,7 +51,7 @@ ui:
       color2: "#304e67"
     light:
       color1: "#080331"
-      color2: "#673051"
+      color2: "#f7931a"
   masthead:
     color:
       dark: "#fff"
