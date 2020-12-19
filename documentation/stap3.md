@@ -11,7 +11,6 @@ disable_anchors: true
 1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>.
     voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
     voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
-
 2. Druk op 'Add now'
 3. Geef de wallet een naam (bvb. Relai)
 4. Druk 'Import wallet'
