@@ -30,7 +30,7 @@ Gefeliciteerd! Van zodra Relai jouw overschrijving ontvangt, sturen ze jouw bitc
 
 Relai toont je 12 woorden. Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen. Zonder deze woorden (ook wel `seed` of `geheime sleutel` genoemd) krijgt niemand toegang tot jouw spaarpotje.
 
-Bitcoin is zeer volatiel. Proberen om een juist moment te kiezen om aan te kopen is zeer riskant. De beste manier om aan te kopen is om gespreid doorheen te tijd kleine hoeveelheden te kopen. Dit kan makkelijk met Relai. Stel een wekelijkse of maandelijkse opdracht in en bespaar jezelf een hoop stress. Vergeet de referral code **REL052** niet om 0.5% te besparen op kosten.
+Bitcoin is zeer volatiel. Proberen om een juist moment te kiezen om aan te kopen is zeer riskant. De beste manier om aan te kopen is om gespreid doorheen de tijd kleine hoeveelheden te kopen. Dit kan makkelijk met Relai. Stel een wekelijkse of maandelijkse opdracht in en bespaar jezelf een hoop stress. Vergeet de referral code **REL052** niet om 0.5% te besparen op kosten.
 
 ------
 
