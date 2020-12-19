@@ -8,10 +8,10 @@ disable_anchors: true
 Inhoudsopgave
 =============
 
-[Stap 1: Koop wat bitcoin](stap1.md)
+[Stap 1 - Koop wat bitcoin](stap1.md)
 
-[Stap 2: Kies een wallet](stap2.md)
+[Stap 2 - Wat is een wallet?](stap2.md)
 
-[Stap 3: Wat is Bitcoin](stap3.md)
+[Stap 3 - Probeer een andere wallet](stap3.md)
 
 [Stap 4: Een transactie versturen](stap4.md)
