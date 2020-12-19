@@ -1,11 +1,20 @@
 ---
 layout: page
-title: Stap 4 - Een transactie versturen.
+title: Stap 4 - Wat is geld?
 show_in_menu: false
 disable_anchors: true
 ---
 
-## Stap 4. Probeer een transactie te maken?
-*Doel: Leer hoe je het netwerk gebruikt om transacties te doen*
+## Leer meer over geld
+*Doel: Begrijpen wat de oorsprong van geld is en wat de kenmerken en functies van geld zijn*
 
-- Verstuur van jouw Relai-app naar Blue Wallet ['Hoe verstuur ik bitcoins op het netwerk'](https://bewijsvanwerk.com/een-transactie-versturen-op-het-netwerk/).
+Lees onderstaande artikels
+
+[Spaartechnologie: De Oorsprong van Geld](https://bewijsvanwerk.com/de-oorsprong-van-geld/)
+
+[Spaartechnologie: De Kenmerken van Geld](https://bewijsvanwerk.com/de-kernmerken-van-geld/)
+
+------
+
+[Verder gaan](stap5.md) --
+[Terug naar overzicht](documentation/overzicht.md)

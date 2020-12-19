@@ -14,4 +14,6 @@ Inhoudsopgave
 
 [Stap 3 - Probeer een andere wallet](stap3.md)
 
-[Stap 4: Een transactie versturen](stap4.md)
+[Stap 4 - Een transactie versturen](stap4.md)
+
+[Stap 5 - Verstuur geld op het netwerk](stap5.md)
