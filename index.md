@@ -12,7 +12,7 @@ Wat is de bedoeling van deze site?
 - Experimenteer en probeer nieuwe dingen die nog onbekend voor je zijn.
 - Begin met kleine bedragen tot je meer vertrouwen hebt in de technologie.
 - Neem altijd volledige controle over jouw bitcoins (beheer je eigen sleutels)
-- Behoudt focus en vermijdt scams (gebruik alleen Bitcoin producten & diensten)
+- Behoud focus en vermijd scams (gebruik alleen Bitcoin producten & diensten)
 
 ## Veelgestelde Vragen
 
