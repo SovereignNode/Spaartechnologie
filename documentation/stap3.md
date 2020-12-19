@@ -1,31 +1,31 @@
 ---
 layout: page
-title: Stap 3 - Wat is Bitcoin?
+title: Stap 3 - Probeer een andere wallet
 show_in_menu: false
 disable_anchors: true
 ---
+## Beheer je sleutels met Blue Wallet
+*Doel: Importeer de wallet van Relai in Blue Wallet en maak een nieuwe aan.*
 
-## Stap 3. Wat is Bitcoin?
-*Doel: Leer wat Bitcoin precies is en waarom het nuttig is*
+### Importeer de wallet van Relai in Blue Wallet
+1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>.
+    voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
+    voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
 
-- Lees ['Spaartechnologie: de oorsprong van geld'](https://bewijsvanwerk.com/de-oorsprong-van-geld/)
-- Lees ['Spaartechnologie: de kernmerken van geld'](https://bewijsvanwerk.com/de-kernmerken-van-geld/)
-- Lees ['Waarom niemand Bitcoin begrijpt'](https://bewijsvanwerk.com/waarom-begrijpt-niemand-bitcoin/)
-- Lees ['Geld als universele maatstaf van waarde'](https://bewijsvanwerk.com/geld-als-sociale-instelling/)
-- Lees ['De schaarste van tijd en Bitcoin'](https://bewijsvanwerk.com/tijd-als-schaarste-goed/)
-- Lees ['De Bitcoin Reformatie'](https://bewijsvanwerk.com/de-bitcoin-reformatie/)
+2. Druk op 'Add now'
+3. Geef de wallet een naam (bvb. Relai)
+4. Druk 'Import wallet'
+5. Geef de 12 woorden in die je op papier neergeschreven hebt in Stap 1.
+6. Wacht tot Blue Wallet jouw balans ophaalt.
 
-- Lees ['Waarom ik maandelijks een deel van mijn inkomen in bitcoin investeer'](https://pegulanten.nl/article/waarom-ik-maandelijks-een-deel-van-mijn-inkomen-in-bitcoin-investeer/).
-- Je kan inschrijven op [deze pagina](https://bewijsvanwerk.com/#subscribe) om mijn nieuwste artikels via mail te ontvangen.
+Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt op het netwerk afgedwongen met sleutels. De 12 woorden die Relai toonde zijn een voorstelling van die sleutels. Door deze woorden in Blue Wallet in te geven kan je ook in Blue Wallet deze bitcoin bekijken en uitgeven.
 
-
-
--------
-Engels
-
-- Bekijk ['Why Bitcoin Matters'](https://www.youtube.com/watch?v=q0XxsabgJEI) van Aleks Svetksi
-- Bekijk ['The Bitcoin Standard'](https://www.youtube.com/watch?v=Zbm772vF-5M) van Saifadeen Ammous
-- Luister ['Intro to Bitcoin Austrian thought'](https://youtu.be/OrMHQhDKhrU) van Stephan Livera
+### Maak een nieuwe wallet aan in Blue Wallet
+1. Druk op 'Add now'
+2. Geef de wallet een naam (bvb. Spaarpotje)
+3. Kies het type wallet. Je hoeft hier niets aan te passen
+4. Druk op 'Create'
+5. Noteer de 12 woorden op papier. Bewaar dit op een veilige plaats.
 
 ------
 
