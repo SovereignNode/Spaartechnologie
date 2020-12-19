@@ -17,4 +17,4 @@ Lees onderstaande artikels
 ------
 
 [Verder gaan](stap5.md) --
-[Terug naar overzicht](documentation/overzicht.md)
+[Terug naar overzicht](overzicht.md)

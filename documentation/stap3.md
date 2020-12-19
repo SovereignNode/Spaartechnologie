@@ -29,4 +29,4 @@ Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt 
 ------
 
 [Verder gaan](stap4.md) --
-[Terug naar overzicht](documentation/overzicht.md)
+[Terug naar overzicht](overzicht.md)

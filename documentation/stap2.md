@@ -72,4 +72,4 @@ A block explorer is a website or application that allows you to find the details
 ------
 
 [Verder gaan](stap3.md) --
-[Terug naar overzicht](documentation/overzicht.md)
+[Terug naar overzicht](overzicht.md)

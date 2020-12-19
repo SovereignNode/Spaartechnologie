@@ -20,4 +20,4 @@ disable_anchors: true
 12. Voeg een notitie toe zodat je in de toekomst makkelijk herkent waar deze bitcoins vandaan kwamen. Druk op 'save'
 
 [Verder gaan](stap6.md) --
-[Terug naar overzicht](documentation/overzicht.md)
+[Terug naar overzicht](overzicht.md)
