@@ -5,19 +5,19 @@ disable_anchors: true
 description: Starten met Bitcoin
 ---
 
-Wat is de bedoeling van deze site?
+Op deze site kan je op een eenvoudige manier beginnen aan jouw Bitcoin avontuur. Stap voor stap leer je meer over deze nieuwe technologie die onze wereld wel eens grondig zou kunnen veranderen. Net zoals met de komst van het internet zal adoptie van Bitcoin een traag en gradueel proces lijken tot je plots wakker wordt en het niet meer kan wegdenken. Daarnaast is er nog een financiële drijfveer om er snel aan te beginnen. Bitcoin is voor iedereen. Begin vandaag nog!
 
 ## Principes
-- Simpel beginnen en gaandeweg bijleren is beter dan helemaal niet beginnen.
-- Experimenteer en probeer nieuwe dingen die nog onbekend voor je zijn.
+- Simpel beginnen en bijleren is beter dan helemaal niet beginnen.
+- Experimenteer en probeer nieuwe dingen uit.
 - Begin met kleine bedragen tot je meer vertrouwen hebt in de technologie.
-- Neem altijd volledige controle over jouw bitcoins (beheer je eigen sleutels)
+- Neem altijd volledige controle over jouw geld (beheer je eigen sleutels)
 - Behoud focus en vermijd scams (gebruik alleen Bitcoin producten & diensten)
 
 ## Veelgestelde Vragen
 
 ### Wat is Bitcoin?
-Bitcoin is een peer-to-peer netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar anderen op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden zoals ons vertrouwde geld dat heeft. Het is cash om te gebruiken op het internet.
+Bitcoin is een [`peer-to-peer`](documentation/definities.md) netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar anderen op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden zoals ons vertrouwde geld dat heeft. Het is cash om te gebruiken op het internet.
 
 ### Waarom is Bitcoin belangrijk?
 Het laat ons toe om over grenzen heen betalingen te doen die resistent zijn aan censuur en cryptografisch beveiligd zijn. Het is onze eerste en enige vorm van absolute digitale schaarste en wordt niet gecontroleerd door één enkele persoon of groep. Het kan dus niet gesaboteerd worden door overheden.
