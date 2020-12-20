@@ -15,7 +15,7 @@ Een bitcoin adres kan verschillende vormen aannemen:
 Net zoals je anderen vraagt om een email te versturen naar jouw emailadres, vraag je anderen om hun bitcoin te versturen naar een van jouw bitcoin adressen.
 
 ### blockchain
-Een lijst van gevalideerde blokken die elk gelinkt zijn aan hun voorganger tot en met de eerste, genesis-blok.
+Een lijst van gevalideerde blokken die elk gelinkt zijn aan hun voorganger tot en met de eerste, genesis-blok. Deelnemers aan het netwerk houden allemaal een kopie bij van de blockchain. Daarom spreken we van een gedistribueerd of verspreid grootboek.
 
 ### blok
 Een groepering van transacties die gemarkeerd wordt met een tijdstempel en een vingerafdruk van de vorige blok. De blokhoofding wordt gehashed om een proof-of-work te produceren waarmee de transacties gevalideerd worden. Gevalideerde blokken worden toegevoegd aan de blockchain (blokketen) via consensus op het netwerk.

@@ -1,30 +1,21 @@
 ---
 layout: page
-title: Stap 3 - Probeer een andere wallet
+title: Stap 3 - Lees meer over geld
 show_in_menu: false
 disable_anchors: true
 ---
-## Beheer je sleutels met Blue Wallet
-*Doel: Importeer de wallet van Relai in Blue Wallet en maak een nieuwe aan.*
 
-### Importeer de wallet van Relai in Blue Wallet
-1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>.
-    voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
-    voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
-2. Druk op 'Add now'
-3. Geef de wallet een naam (bvb. Relai)
-4. Druk 'Import wallet'
-5. Geef de 12 woorden in die je op papier neergeschreven hebt in Stap 1.
-6. Wacht tot Blue Wallet jouw balans ophaalt.
+Bitcoin is digitaal geld. De vraag wat geld precies is, kan niet simpel beantwoord worden. Al honderden jaren zijn we op zoek naar het antwoord en misschien is er zelfs geen correct antwoord. Maar de zoektocht op zich is zeker al de moeite waard. We spenderen vele jaren van ons leven aan werk om geld te verdienen en iedere transactie die we doen wordt geintermedieerd door geld. Toch kunnen we de vraag vaak moeilijk beantwoorden. Het loont de moeite om daar eens wat meer over na te denken.
 
-Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt op het netwerk afgedwongen met sleutels. De 12 woorden die Relai toonde zijn een voorstelling van die sleutels. Door deze woorden in Blue Wallet in te geven kan je ook in Blue Wallet deze bitcoin bekijken en uitgeven.
+## Leer meer over geld
+*Doel: Begrijpen wat de oorsprong van geld is en wat de kenmerken en functies van geld zijn*
 
-### Maak een nieuwe wallet aan in Blue Wallet
-1. Druk op 'Add now'
-2. Geef de wallet een naam (bvb. Spaarpotje)
-3. Kies het type wallet. Je hoeft hier niets aan te passen
-4. Druk op 'Create'
-5. Noteer de 12 woorden op papier. Bewaar dit op een veilige plaats.
+Onderstaande artikels proberen een antwoord te bieden op de vraag wat geld precies is. Ze doen dit volgens de Oostenrijkse traditie, een economische stroming die vandaag onderbelicht is. Vooralsnog toont het bestaan en relatieve succes van Bitcoin aan dat dit misschien onterecht is.
+
+[Spaartechnologie: De Oorsprong van Geld](https://bewijsvanwerk.com/de-oorsprong-van-geld/)
+
+[Spaartechnologie: De Kenmerken van Geld](https://bewijsvanwerk.com/de-kernmerken-van-geld/)
+
 
 ------
 
