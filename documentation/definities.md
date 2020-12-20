@@ -2,17 +2,16 @@
 layout: page
 title: Definities
 show_in_menu: true
-disable_anchors: false
+disable_anchors: true
 ---
 
-Definities
-==========
 
 ### adres
 Een bitcoin adres kan verschillende vormen aannemen:
 * bc1qwgscp3mjhkscwkemmwex6x9ycs4t4qukkguxy4
 * 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
 * 3BYdu2CfJ8sHaDV4p8xFmrvsfhxKQcbn3g
+
 Net zoals je andere vraagt om een email te versturen naar jouw emailadres, vraag je anderen om hun bitcoin te versturen naar een van jouw bitcoin adressen.
 
 ### blok
