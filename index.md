@@ -17,13 +17,13 @@ Op deze site kan je op een eenvoudige manier beginnen aan jouw Bitcoin avontuur.
 ## Veelgestelde Vragen
 
 ### Wat is Bitcoin?
-Bitcoin is een [`peer-to-peer`](documentation/definities.md) netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar anderen op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden zoals ons vertrouwde geld dat heeft. Het is cash om te gebruiken op het internet.
+Bitcoin is een [`peer-to-peer`](documentation/definities.md#peer-to-peer) netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar andere deelnemers op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden in tegenstelling tot vertrouwde geld. Het is cash om te gebruiken op het internet.
 
 ### Waarom is Bitcoin belangrijk?
 Het laat ons toe om over grenzen heen betalingen te doen die resistent zijn aan censuur en cryptografisch beveiligd zijn. Het is onze eerste en enige vorm van absolute digitale schaarste en wordt niet gecontroleerd door één enkele persoon of groep. Het kan dus niet gesaboteerd worden door overheden.
 
 ### Hoe werkt het?
-Alice stuurt een transactie uit vanaf haar wallet. Deze transactie wordt ontvangen door duizenden leden op het netwerk die allemaal aan elkaar doorvertellen dat Alice wil versturen naar Bob. De transactie wordt opgepikt door een miner die rekenkracht gebruikt om transacties te groeperen en in een blok te stoppen. Wanneer de transactie van Alice in een blok geplaatst wordt, ontvangt Bob het geld van Alice in zijn eigen bitcoin wallet.
+Alice stuurt een transactie uit vanaf haar [`wallet`](documentation/definities.md). Deze transactie wordt ontvangen door duizenden leden op het netwerk die allemaal aan elkaar doorvertellen dat Alice wil versturen naar Bob. De transactie wordt opgepikt door een miner die rekenkracht gebruikt om transacties te groeperen en in een blok te stoppen. Wanneer de transactie van Alice in een blok geplaatst wordt, ontvangt Bob het geld van Alice in zijn eigen bitcoin wallet.
 
 ### Wie is de uitvinder van Bitcoin?
 In 2008 werd op online mailing-lijst door een anonieme entiteit genaamd 'Satoshi Nakamoto' de Bitcoin White Paper gedeeld. Satoshi verdween in 2011 en is sindsdien niet meer online gezien. Daarna werkten honderden ontwikkelaars verder aan het Bitcoin protocol waarvan de broncode volledig open en vrij beschikbaar is (open-source).
