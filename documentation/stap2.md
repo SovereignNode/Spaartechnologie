@@ -22,9 +22,9 @@ In dit deel gebruiken we een gebruiksvriendelijke [mobile wallet](faq.md#wat-is-
 Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden) die we als back-up kregen van Relai in Blue Wallet. Dit toont aan dat je geld dus niet opgeslagen wordt in een app op je smartphone. Jouw bitcoin worden beheert door de woorden die je neerpende.
 
 ### Importeer de wallet van Relai in Blue Wallet
-1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>.
-    voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
-    voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
+1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>:
+    * voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
+    * voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
 2. Druk op 'Add now'
 3. Geef de wallet een naam (bvb. Relai)
 4. Druk 'Import wallet'
