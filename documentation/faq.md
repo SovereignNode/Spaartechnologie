@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veelgestelde Vragen?
+title: Veelgestelde Vragen
 show_in_menu: true
 disable_anchors: false
 ---
