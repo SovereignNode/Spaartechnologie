@@ -15,8 +15,9 @@ disable_anchors: true
 
 ### Bitcoin kopen met Relai via SEPA
 
-Bekijk deze video voor we beginnen.
-[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai")
+Bekijk deze video voor we beginnen:
+
+[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}
 
 1. Download de Relai-app voor <a href="https://apps.apple.com/app/id1513185997" target="_blank">iOS</a> of voor <a href="https://play.google.com/store/apps/details?id=com.relai" target="_blank">Android</a>.
 2. Open de app en scroll door de boodschappen.
