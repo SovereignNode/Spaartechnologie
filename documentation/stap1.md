@@ -21,7 +21,7 @@ Bekijk deze video voor we beginnen (druk op de afbeelding):
 
 1. Download [Relai](https://relai.ch/){:target="_blank"}:
     * voor [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"}
-    * voor [iOS](macappstores://apps.apple.com/be/app/id151318599){:target="_blank"}
+    * voor [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}
 2. Open de app en scroll door de boodschappen.
 3. Accepteer de voorwaarden en kies een PIN-code voor de app.
 4. Koop voor 20 euro aan bitcoin.
