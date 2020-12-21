@@ -23,8 +23,8 @@ Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden)
 
 ### Importeer de wallet van Relai in Blue Wallet
 1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>:
-    * voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
-    * voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040)
+    * voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet){:target="_blank"}
+    * voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040){:target="_blank"}
 2. Druk op 'Add now'
 3. Geef de wallet een naam (bvb. Relai)
 4. Druk 'Import wallet'

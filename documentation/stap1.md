@@ -19,7 +19,9 @@ Bekijk deze video voor we beginnen (druk op de afbeelding):
 
 [![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}
 
-1. Download de Relai-app voor <a href="https://apps.apple.com/app/id1513185997" target="_blank">iOS</a> of voor <a href="https://play.google.com/store/apps/details?id=com.relai" target="_blank">Android</a>.
+1. Download de Relai-app:
+    * voor [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"}
+    * voor [iOS](https://apps.apple.com/app/id151318599){:target="_blank"}
 2. Open de app en scroll door de boodschappen.
 3. Accepteer de voorwaarden en kies een PIN-code voor de app.
 4. Koop voor 20 euro aan bitcoin.
