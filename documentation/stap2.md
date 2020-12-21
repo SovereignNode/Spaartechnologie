@@ -7,16 +7,19 @@ disable_anchors: true
 
 ## Leer wat een wallet is
 *Doel: Begrijpen wat een wallet is*
+
 Een bitcoin wallet is net zoals een portemonnee. Het is een manier om waarde op te slaan. Het belangrijkste verschil met een echte portemonnee is dat een bitcoin wallet niet echt waarde opslaat in die portemonnee zoals met cash geld. Bitcoins bestaan enkel op het grootboek dat we de [blockchain](definities.md#blockchain) noemen. Een bitcoin [wallet](definities.md#wallet) beheert de sleutels die nodig zijn om te ontvangen en te versturen via de blockchain.
 
 In de eerste stap gebruikten we reeds onze eerste wallet. Maar ons geld is niet opgeslagen in de app van Relai. Je kan de back-up van die wallet gebruiken in een andere wallet om je saldo te bekijken, adressen aan te maken of om bitcoin te versturen.
 
+[infographic]
+
 ## Beheer je sleutels met Blue Wallet
 *Doel: Importeer de wallet van Relai in Blue Wallet en maak tweede wallet aan.*
 
-In dit deel gebruiken we een gebruiksvriendelijke [mobile wallet](faq.md#wat-is-een-mobile-wallet?) op je smartphone. In [Stap 1](documentation/stap1.md) gebruikten we reeds onze eerste mobiele wallet. Relai is een zogenaamde *niet-beheerde* of [*non-custodial*](faq.md#wat-is-een-non-custodial-wallet?) wallet aangezien je een back-up nam van de 12 woorden die getoond werden.
+In dit deel gebruiken we een gebruiksvriendelijke [mobile wallet](faq.md#wat-is-een-mobile-wallet) op je smartphone. In [Stap 1](documentation/stap1.md) gebruikten we reeds onze eerste mobiele wallet. Relai is een zogenaamde *niet-beheerde* of [*non-custodial*](faq.md#wat-is-een-non-custodial-wallet) wallet aangezien je een back-up nam van de 12 woorden die getoond werden.
 
-Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden?) die we als back-up kregen van Relai in Blue Wallet. Dit toont aan dat je geld dus niet opgeslagen wordt in een app op je smartphone. Jouw bitcoin worden beheert door de woorden die je neerpende.
+Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden) die we als back-up kregen van Relai in Blue Wallet. Dit toont aan dat je geld dus niet opgeslagen wordt in een app op je smartphone. Jouw bitcoin worden beheert door de woorden die je neerpende.
 
 ### Importeer de wallet van Relai in Blue Wallet
 1. Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a>.

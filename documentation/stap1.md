@@ -28,6 +28,8 @@ Lees: <a href="https://bewijsvanwerk.com/koop-met-relai/" target="_blank">Koop m
 
 Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze jouw bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
 
+[infographic]
+
 Relai toont je 12 woorden. **Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen**. Zonder deze woorden (ook wel [*seed woorden*](faq.md#wat-zijn-seed-woorden?) genoemd) krijgt niemand toegang tot jouw spaarpotje.
 
 ### Zonder zorgen aankopen op vaste tijdstippen
