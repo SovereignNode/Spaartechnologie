@@ -17,7 +17,7 @@ Op deze site kan je op een eenvoudige manier beginnen aan jouw Bitcoin avontuur.
 ## Volgende Stappen
 De beste manier om te starten met Bitcoin is om een kleine hoeveelheid aan te schaffen. Wanneer je de volgende stap afwerkt zal je reeds je eerste bitcoin in jouw spaarpotje hebben. Dat kan al vanaf 10 euro. Bitcoin sparen is mogelijk voor iedereen.
 
-In de eerste stappen gaan we meteen aan de slag met bitcoin zonder al te veel extra informatie. Het is veel leuker om bitcoin te ervaren dan om grote lappen tekst te moeten lezen. Wie gewoon een eenvoudige manier zoekt om bitcoin op geregelde tijdstippen aan te kopen kan zo snel op weg gezet worden. Daarnaast leren we net genoeg om het netwerk te gebruiken op een veilige manier.
+In het eerste deel gaan we meteen aan de slag met bitcoin zonder al te veel extra informatie. Het is veel leuker om bitcoin te ervaren dan om grote stukken tekst te moeten lezen. Wie gewoon een eenvoudige manier zoekt om bitcoin op geregelde tijdstippen aan te kopen kan zo snel op weg gezet worden. Daarnaast leren we net genoeg om het netwerk te gebruiken op een veilige manier.
 
 Een belangrijke innovatie van Bitcoin is echter dat het derde partijen overbodig maakt. Je kan deelnemen aan het netwerk en volledig onafhankelijk zijn. Dit vergt echter iets meer informatie en tijd. In de volgende stappen gaan we dieper in op belangrijke concepten en zet ik jullie op weg om jullie eigen bank te zijn.
 
