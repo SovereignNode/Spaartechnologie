@@ -30,10 +30,7 @@ Bitcoin kopen bij Relai is snel en eenvoudig.
 
 We bespreken de bovenstaande stappen hieronder in meer detail.
 
-Download [Relai](https://relai.ch/){:target="_blank"}. Relai is beschikbaar voor Android en voor Apple.
-
-  * [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"}
-  * [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}
+Download [Relai](https://relai.ch/){:target="_blank"}. Relai is beschikbaar voor [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"} en voor [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}.
 
 Open de app en scroll door de boodschappen die getoond worden op het scherm. Accepteer de voorwaarden en kies een PIN-code die de toegang tot de app zal beveiligen.
 
