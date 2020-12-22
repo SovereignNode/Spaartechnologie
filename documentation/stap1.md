@@ -18,7 +18,7 @@ disable_anchors: true
 
 Vooraleer we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image }
+[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
 
 Bitcoin kopen bij Relai is snel en eenvoudig.
 
@@ -31,9 +31,8 @@ Bitcoin kopen bij Relai is snel en eenvoudig.
 We bespreken de bovenstaande stappen hieronder in meer detail.
 
 Download [Relai](https://relai.ch/){:target="_blank"}. Relai is beschikbaar voor Android en voor Apple.
-
-    * voor [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"}
-    * voor [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}
+    * [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"}
+    * [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}
 
 Open de app en scroll door de boodschappen die getoond worden op het scherm. Accepteer de voorwaarden en kies een PIN-code die de toegang tot de app zal beveiligen.
 
