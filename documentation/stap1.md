@@ -18,10 +18,7 @@ disable_anchors: true
 
 Vooraleer we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-<p align="center">
-[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}
-</p>
-
+[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image }
 
 Bitcoin kopen bij Relai is snel en eenvoudig.
 
