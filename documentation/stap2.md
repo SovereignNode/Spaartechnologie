@@ -4,13 +4,18 @@ title: Stap 2 - Leer over bitcoin wallets
 show_in_menu: false
 disable_anchors: true
 ---
+## Principes
+
+* Neem altijd een back-up van wallets
+* Bewaar back-ups op een veilige plaats
+* Met de wachtwoordzin van je wallet krijg je overal ter wereld toegang tot jouw geld.
 
 ## Leer wat een wallet is
 *Doel: Begrijpen wat een wallet is*
 
-Een bitcoin wallet is net zoals een portemonnee. Het is een manier om waarde op te slaan. Het belangrijkste verschil met een echte portemonnee is dat een bitcoin wallet niet echt waarde opslaat in die portemonnee zoals met cash geld. Bitcoins bestaan enkel op het grootboek dat we de [blockchain](definities.md#blockchain) noemen. Een bitcoin [wallet](definities.md#wallet) beheert de sleutels die nodig zijn om te ontvangen en te versturen via de blockchain.
+Een bitcoin [wallet](faq.md#wat-is-een-wallet) is net zoals een portemonnee. Het is een manier om waarde op te slaan. Het belangrijkste verschil met een echte portemonnee is dat een bitcoin wallet niet echt waarde opslaat in die portemonnee zoals met cash geld. Bitcoins bestaan enkel op het grootboek dat we de [blockchain](definities.md#blockchain) noemen. Een bitcoin [wallet](definities.md#wallet) beheert de sleutels die nodig zijn om te ontvangen en te versturen via de blockchain.
 
-In de eerste stap gebruikten we reeds onze eerste wallet. Maar ons geld is niet opgeslagen in de app van Relai. Je kan de back-up van die wallet gebruiken in een andere wallet om je saldo te bekijken, adressen aan te maken of om bitcoin te versturen.
+In de eerste stap gebruikten we reeds een eerste wallet. Je geld is niet opgeslagen in de app van Relai. Je kan de back-up van die wallet gebruiken in een andere wallet om je saldo te bekijken, adressen aan te maken of om bitcoin te versturen.
 
 [infographic]
 

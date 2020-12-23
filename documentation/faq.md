@@ -49,7 +49,7 @@ Vandaag zijn er reeds meer dan 18.5 miljoen bitcoin ontgonnen door miners. Volge
 Nieuwe bitcoins komen tot stand als het resultaat van een globale wapenwedloop tussen miners. Wanneer een miner met succes een nieuwe blok vindt en aan de [`blockchain`](definities.md#blockchain) toevoegt, ontvangt deze een beloning (de bloksubsidie). Vandaag krijgen miners nog 6.25 bitcoin per blok. In 2024 zal die beloning opnieuw halveren tot 3.125 bitcoins per blok. Iedere 210,000 blokken, ongeveer om de 4 jaar, vindt een nieuwe halvering van de beloning plaats tot de laatste gevonden wordt in 2140.
 
 ### Wat is minen?
-Deelnemers brengen grote hoeveelheden rekenkracht aan om transacties te groeperen in blokken. Ze brengen zoveel mogelijk van die transacties samen en beginnen aan een repetitieve zoektocht om voor die blok een antwoord te vinden dat voldoet aan een afgesproken voorwaarde. Wanneer ze de puzzel met succes oplossen wordt de afgewerkte blok doorgestuurd naar de rest van het netwerk. De vinder wordt beloond met de transactiekosten en de bloksubsidie. Het proces start opnieuw met de volgende lading transacties.
+Deelnemers brengen grote hoeveelheden rekenkracht aan om [transacties](definities.md#transactie) te groeperen in [blokken](definities.md#blokken). Ze brengen zoveel mogelijk van die transacties samen en beginnen aan een repetitieve zoektocht om voor die blok een antwoord te vinden dat voldoet aan een afgesproken voorwaarde. Wanneer ze de puzzel met succes oplossen wordt de afgewerkte blok doorgestuurd naar de rest van het netwerk. De vinder wordt beloond met de transactiekosten en de bloksubsidie. Het proces start opnieuw met de volgende lading transacties.
 
 ### Waar kan ik bitcoins kopen?
 Er zijn zeer veel online beurzen waar je bitcoins kan kopen. Doe echter voldoende onderzoek en zoek een beurs waar je vertrouwen in hebt. De beste manier om bitcoins te kopen blijft om ze via een vertrouwde vriend of familielid te verwerven. Belangrijk: je kan een fractie van een bitcoin kopen (er zijn 100 miljoen sats per bitcoin).
@@ -61,22 +61,22 @@ Ik adviseer om bitcoin te kopen met Relai. Op [deze pagina](stap1.md) vind je me
 Een bitcoin wallet is net zoals een portemonnee. Het is een manier om waarde op te slaan. Het belangrijkste verschil met een echte portemonnee is dat een bitcoin wallet niet echt waarde opslaat binnenin die portemonnee. Bitcoins bestaan enkel op het grootboek dat we de blockchain noemen. Een bitcoin wallet beheert de sleutels die nodig zijn om te ontvangen en te versturen via de blockchain.
 
 ### Wat zijn seed woorden?
-*Seed* woorden (ook wel *mnemonic* of geheustensteun genoemd) zijn een reeks van 12 of 24 willekeurig gekozen woorden die aangemaakt worden wanneer je een nieuwe wallet opent. Deze woorden dienen als de belangrijkste back-up van jouw volledige wallet en dienen niet gedeeld te worden met anderen. Bewaar deze woorden veilig want iedereen die toegang heeft tot deze woorden kan jouw bitcoin stelen.
+*Seed* woorden zijn een reeks van 12 of 24 willekeurig gekozen woorden die samen een wachtwoordzin vormen. De seed wordt aangemaakt wanneer je een nieuwe wallet opent. De seed wordt ook wel *mnemonic* of geheugensteun genoemd. Deze geheugensteun dient als de belangrijkste back-up van jouw volledige wallet en dient niet gedeeld te worden met anderen. Bewaar deze woorden veilig want iedereen die toegang heeft tot deze woorden kan jouw bitcoin stelen.
 
 ### Wat is een passphrase?
 Een *passphrase* of wachtwoord (ook wel 13e/25e woord genoemd) is een extra woord dat door de gebruiker gekozen wordt met de bedoeling een extra laag veiligheid toe te voegen aan jouw back-up. Wanneer jouw seed woorden in verkeerde handen vallen dan heeft een aanvaller nog steeds jouw extra wachtwoord nodig om toegang te krijgen tot jouw bitcoin. Bewaar jouw seed woorden en wachtwoord nooit samen op dezelfde plaats.
 
-### Wat is een private key?
-Een *private key* of geheime sleutel wordt afgeleid van jouw seed woorden. De kennis van de geheime sleutel is een bewijs dat de entiteit die de sleutel bezit toegang heeft om bitcoin uit te geven vanaf het overeenstemmend adres. Jouw wallet creeërt een geheime sleutel voor ieder adres dat aangemaakt wordt. Vandaag zullen de meeste gebruikers van bitcoin nooit in aanraking komen met geheime sleutels aangezien dit over het algemeen automatisch wordt beheert door de wallet software.
+### Wat is een geheime sleutel?
+Een *private key* of [geheime sleutel](definities.md#geheime-sleutel) wordt afgeleid van jouw [seed](faq.md#wat-zijn-seed-woorden). De kennis van de geheime sleutel is een bewijs dat de entiteit die de sleutel bezit toegang heeft om bitcoin uit te geven vanaf het overeenstemmend adres. Jouw wallet creeërt een geheime sleutel voor ieder adres dat aangemaakt wordt. Vandaag zullen de meeste gebruikers van bitcoin nooit in aanraking komen met geheime sleutels aangezien dit over het algemeen automatisch wordt beheert door de software van jouw wallet.
 
-### Wat is een public key?
+### Wat is een publieke sleutel?
 *Public keys* of publieke sleutels worden gebruikt in een transactie om te verifiëren dat de eigenaar van de overeenstemmende geheime sleutel een correcte handtekening zet als bewijs dat hij eigenaar is van het geld dat verstuurd wordt. Opnieuw geldt dat de gebruiker gewoonlijk niet in aanraking komt met deze publieke sleutels aangezien dit door de software van jouw wallet wordt gedaan.
 
-### Wat is een extended public key?
-Een *extended public key* (of uitgebreide publieke sleutel) kan gezien worden als de hoofdweergave in jouw bitcoin wallet. Doorgaans noemen we dit een xpub. Met zo'n xpub kan je alle adressen van jouw wallet genereren en bekijken. Let dus op met wie je deze xpub deelt want het geeft volledige inzage in jouw portemonnee. Wanneer je een wallet gebruikt die niet verbonden is met een node die je zelf draait dan is het zeer waarschijnlijk dat een derde partij jouw xpub kent en dus kan opvolgen hoeveel bitcoin jij hebt. Naast xpubs zijn er ook ypubs en zpubs die beide dezelfde functie hebben.
+### Wat is een xPub?
+Een *extended public key* (of uitgebreide publieke sleutel) kan gezien worden als de hoofdweergave in jouw bitcoin wallet. Doorgaans noemen we dit een xPub. Met zo'n xPub kan je alle adressen van jouw wallet genereren en bekijken. Let dus op met wie je deze xpub deelt want het geeft volledige inzage in jouw portemonnee. Wanneer je een wallet gebruikt die niet verbonden is met een node die je zelf draait dan is het zeer waarschijnlijk dat een derde partij jouw xPub kent en dus kan opvolgen hoeveel bitcoin jij hebt. Naast xPubs zijn er ook yPubs en zPubs die beide dezelfde functie hebben.
 
 ### Wat is een adres?
-Een adres is een combinatie van cijfers en letters die uniek is voor jouw wallet. Dit kan je delen met andere om bitcoin te ontvangen. Wallets kunnen een oneindige hoeveelheid adressen aanmaken. Het is een goed idee om nooit hetzelfde adres twee keer te gebruiken om jouw privacy te beschermen. De meeste wallets doen dit automatisch voor jou en maken een nieuw adres aan telkens wanneer je geld wil ontvangen. De software houdt alle gebruikte adressen bij en toont je volledige balans.
+Een [adres](definities.md#adres) is een combinatie van cijfers en letters die uniek is voor jouw wallet. Dit kan je delen met andere om bitcoin te ontvangen. Wallets kunnen een oneindige hoeveelheid adressen aanmaken. Het is een goed idee om nooit hetzelfde adres twee keer te gebruiken om jouw privacy te beschermen. De meeste wallets doen dit automatisch voor jou en maken een nieuw adres aan telkens wanneer je geld wil ontvangen. De software houdt alle gebruikte adressen bij en toont je volledige saldo.
 
 ### Wat is een mobile wallet?
 Een *mobile wallet* is een wallet die op jouw GSM staat. Het laat je toe om snel en makkelijk toegang te hebben tot jouw bitcoin met als nadeel dat het risico bestaat dat je jouw toestel verliest en dus mogelijk ook jouw bitcoin. Dit scenario mag geen probleem vormen indien je correct jouw *seed woorden* neergeschreven hebt op papier zodat je jouw wallet opnieuw kan aanmaken op een ander toestel.
@@ -104,3 +104,29 @@ Een QR code is een visuele voorstellen van data. Ze worden in Bitcoin vaak gebru
 
 ### Wat is een block explorer?
 Een *block explorer* of blokverkenner is een website of applicatie die je toelaat om de details van een bepaalde blok op de blockchain te bekijken. Je vindt er data zoals aantal transacties in een blok, adres van de verzender, adres van de ontvanger, betaalde kosten, verstuurde hoeveelheid, de blokhoogte en de bloktijd.
+
+
+## Nodes
+### Wat is een node?
+Een node is een computer die de Bitcoin-software draait. Die computer is dan een knooppunt in het peer-to-peer netwerk. Jouw persoonlijke node bevat jouw eigen kopie van de Bitcoin-blokchain en dwingt de spelregels van het netwerk af. Je kan het best zien als een portaal naar het Bitcoin ecosysteem vergelijkbaar met een router die je toegang geeft tot het internet. Een node stuurt transacties uit naar het netwerk, verifieert dat de bitcoin die je ontvangt echt zijn en beschermt je privacy aangezien je van niemand anders afhankelijk bent om deel te nemen.
+
+### Waarom moet ik een node draaien?
+Jouw node = jouw regels. Wanneer je een wallet verbindt met jouw eigen node dan hoef je niemand anders te vertrouwen om jouw inkomende transacties te verifiëren. Een node beschermt jou tegen valsmunters en het houdt het netwerk decentraal en verspreid. Wanneer je niet jouw eigen node gebruikt dan vertrouw je iemand anders om je te vertellen hoeveel bitcoin je precies hebt en om transacties te versturen of te ontvangen. Het mooie aan Bitcoin is dat je niemand anders hoeft te vertrouwen maar dan moet je wel een eigen node opstarten.
+Waar moet ik op letten bij het draaien van een node?
+
+Een node draait best 24/7 dus houd je best rekening met een elektriciteitskost die afhankelijk is van de hardware die je gebruikt. De meeste nodes draaien op mini-computers zoals een Raspberry Pi waardoor de kosten te verwaarlozen zijn. Daarnaast zal een node constant nieuwe blokken downloaden en verifiëren. Dit zal zo’n 20GB per maand verbruiken van jouw internetlimiet. De initiële download van alle blokken zal een goeie 350GB kosten. Controleer bij jouw internetprovider hoeveel jouw limiet is.
+
+### Welke soorten nodes zijn er?
+Het is mogelijk om een node te draaien op jouw huidige computer door simpelweg Bitcoin Core (de bekendste implementatie van een bitcoin node) te downloaden. Dit is de eenvoudigste en goedkoopste optie. Het nadeel hiervan is dat jouw computer meestal niet constant aan staat waardoor de software telkens opnieuw moet synchroniseren met nieuwe blokken sinds het laatst afgesloten werd. Er zijn ‘plug-and-play’-opties zoals MyNode en Nodl. Deze nodes bevatten alles wat je nodig hebt en vereisen enkel stroom en internet om van start te gaan. Ze zijn ook iets duurder. Tot slot, opteren veel mensen om zelf hardware te kopen en zelf de Bitcoin software te installeren met een Raspberry Pi. Dit is in mijn ogen de leukste optie en klinkt moeilijker dan het is.
+
+### Wat kan een node nog?
+Dat hangt sterk af van de software die je draait. Enkele gebruikelijke extra toepassingen zijn een Lightning-node, een Electrum-server of een eigen [block explorer](faq.md#wat-is-een-block-explorer) (zoals [blockstream.info](https://blockstream.info) of [mempool.space](https://mempool.space)). Je kan ook een betalingsterminal installeren zoals BTCPay Server. Paketten zoals MyNode bevatten al deze toepassingen zonder al te veel extra gedoe.
+
+### Wat is de initiële-blok-download?
+Wanneer je voor het eerst de Bitcoin software opstart begint de initiële-blok-download (IBD). De software start in 2009 en download en verifieert de volledige transactiegeschiedenis van het netwerk. Het slaat een kopie op alle transacties; jouw persoonlijke kopie van de [blockchain](faq.md#wat-is-de-blockchain). Wanneer de synchronisatie voltooid is, kan de [node](faq.md#wat-is-een-node) controleren dat de bitcoin die jij ontvangt legitiem en echt zijn. De software zal valsspelers onverbiddelijk weigeren. De synchronisatietijd is afhankelijk van de hardware en internetsnelheid. Gemiddeld reken je best op 4-7 dagen.
+
+### Wat is een pruned node?
+Je kan jouw node de opdracht geven om oude data te verwijderen wanneer de keten volledig gesynchroniseerd is. Dat kan handig zijn wanneer je niet veel plaats meer hebt op jouw computer. Het heeft wel nadelen. Het is moeilijker om oude transacties te verifiëren en je laat niet toe dat andere nodes die online komen jouw node gebruiken om gegevens te downloaden.
+
+### Kan ik de node van iemand anders gebruiken?
+Dat kan zeker. Het is zelfs de standaardoptie van veel wallets maar ideaal is het niet omwille van de redenen hierboven aangehaald. Als je een vriend hebt die je vertrouwt kan je ook zijn/haar node gebruiken. Dit is een verbetering ten opzichte van de node gebruiken van een onbekende derde-partij. Maar de ultieme manier om deel te nemen aan het Bitcoin netwerk is met jouw eigen node.
