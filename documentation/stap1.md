@@ -14,8 +14,8 @@ disable_anchors: true
 * In een latere stap zullen we onze back-up verbeteren zodat je spaarpotje veilig blijft
 
 
-### Bitcoin kopen
-
+## Bitcoin kopen
+### Proces
 Voor we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
 [![Bitcoin-kopen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiyoutube.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}
@@ -28,7 +28,8 @@ Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving
 
 ![relai-in-3-stappen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relai123.png?raw=true)
 
-We bespreken de bovenstaande stappen hieronder in meer detail.
+### In detail
+Hieronder bespreken we de bovenstaande stappen in meer detail.
 
 Download [Relai](https://relai.ch/){:target="_blank"}. Relai is beschikbaar voor [Android](https://play.google.com/store/apps/details?id=com.relai){:target="_blank"} en voor [iOS](https://apps.apple.com/be/app/id151318599){:target="_blank"}.
 
@@ -52,14 +53,14 @@ Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), st
 
 Lees: [Koop met Relai](https://bewijsvanwerk.com/koop-met-relai/){:target="_blank"} voor meer informatie over dit proces.
 
-### Een back-up maken van jouw portemonnee
+### Back-up maken van jouw portemonnee
 Het is belangrijk om te begrijpen dat jouw bitcoin niet bewaard worden in de app van Relai. Wat als je jouw toestel verliest? Jouw bitcoin worden beheert door jouw persoonlijke sleutels van jouw bitcoin portemonnee. Die sleutels bewaar je beter **op papier**. We nemen een back-up van onze portemonnee door onze wachtwoordzin (12 woorden) op te schrijven.
 
-![relai-backupn](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibackup.png?raw=true)
+![relai-backup](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibackup.png?raw=true)
 
 Relai toont je de 12 woorden die dienen als wachtwoordzin voor jouw portemonnee. **Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen**. Zonder deze woorden (ook wel [*seed woorden*](faq.md#wat-zijn-seed-woorden?) genoemd) krijgt niemand toegang tot jouw spaarpotje.
 
-### Zonder zorgen aankopen op vaste tijdstippen
+### Aankopen op vaste tijdstippen
 Je eerste aankoop zal niet onmiddellijk in jouw bezit zijn. Eerst moet de overschrijving vanaf jouw bankrekening ontvangen worden en vervolgens moeten de bitcoin door het netwerk verstuurd worden naar jouw persoonlijk bitcoin adres uit jouw wallet. Wanneer jouw eerste aankoop bevestigd is, kan je met een geruster hart een automatisch spaarplan instellen.
 
 Bitcoin is zeer volatiel. Proberen om een juist moment te kiezen om aan te kopen is zeer riskant. De beste manier om aan te kopen is om gespreid doorheen de tijd kleine hoeveelheden te kopen zonder naar de prijs te kijken. Dit kan makkelijk met Relai. Stel een wekelijkse of maandelijkse opdracht in en bespaar jezelf een hoop stress. Vergeet de referral code **REL052** niet om 0.5% te besparen op kosten.
