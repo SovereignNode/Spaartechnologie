@@ -18,7 +18,7 @@ disable_anchors: true
 
 Voor we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin-kopen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiyoutube.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
+[![Bitcoin-kopen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiyoutube.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}
 
 Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving.
 
@@ -26,7 +26,7 @@ Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving
 2. Kies hoeveel je wil aankopen.
 3. Schrijf geld over met je bank en ontvang bitcoin in onze portemonnee.
 
-![relai-in-3-stappen](https://github.com/SovereignNode/Spaartechnologie/blob/master/images/relai123.jpg?raw=true)
+![relai-in-3-stappen](https://github.com/SovereignNode/Spaartechnologie/blob/master/images/relai123.png?raw=true)
 
 We bespreken de bovenstaande stappen hieronder in meer detail.
 
