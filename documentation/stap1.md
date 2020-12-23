@@ -18,15 +18,15 @@ disable_anchors: true
 
 Vooraleer we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin kopen](http://img.youtube.com/vi/ZfO3Gk2Zax8/0.jpg)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
+[![Bitcoin kopen](images/stap1/relaiyoutube.png)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
 
 Bitcoin kopen bij Relai is snel en eenvoudig.
 
-   * We beginnen met de app te downloaden naar jouw smartphone.
-   * Vervolgens kiezen we hoeveel we willen kopen.
-   * In de laatste stap doen we een overschrijving met onze bank en ontvangen we bitcoin in onze portemonnee.
+1. Download de Relai app (voor Android of iOS).
+2. Kies hoeveel je wil aankopen.
+3. Schrijf geld over met je bank en ontvang bitcoin in onze portemonnee.
 
-[infographic]
+![relai in 3 stappen](images/stap1/relai123.png)
 
 We bespreken de bovenstaande stappen hieronder in meer detail.
 
@@ -47,6 +47,8 @@ Je krijgt de details te zien van jouw aankoop. Doe met je bank een overschrijvin
 [image]
 
 Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze jouw bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
+
+![sparen met relai](images/stap1/relaiaankopen.png)
 
 Lees: [Koop met Relai](https://bewijsvanwerk.com/koop-met-relai/){:target="_blank"} voor meer informatie over dit proces.
 
