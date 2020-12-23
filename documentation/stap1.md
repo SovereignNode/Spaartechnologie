@@ -18,7 +18,7 @@ disable_anchors: true
 
 Voor we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin-kopen](assets/images/stap1/relai123.png)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
+[![Bitcoin-kopen](assets/images/stap1/relai123.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
 
 Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving.
 
@@ -26,7 +26,7 @@ Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving
 2. Kies hoeveel je wil aankopen.
 3. Schrijf geld over met je bank en ontvang bitcoin in onze portemonnee.
 
-![relai-in-3-stappen](images/stap1/relai123.png)
+![relai-in-3-stappen](images/stap1/relai123.png?raw=true)
 
 We bespreken de bovenstaande stappen hieronder in meer detail.
 
@@ -48,7 +48,7 @@ Je krijgt de details te zien van jouw aankoop. Doe met je bank een overschrijvin
 
 Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze jouw bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
 
-![sparen-met-relai](images/stap1/relaiaankopen.png)
+![sparen-met-relai](images/stap1/relaiaankopen.png?raw=true)
 
 Lees: [Koop met Relai](https://bewijsvanwerk.com/koop-met-relai/){:target="_blank"} voor meer informatie over dit proces.
 
