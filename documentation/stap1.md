@@ -41,18 +41,18 @@ Geef vervolgens jouw **IBAN** rekeningnummer (start met BE of NL) op en gebruik 
 
 ![relai-iban](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiiban.png?raw=true)
 
-Je krijgt de details te zien van jouw aankoop. Doe met je bank een overschrijving naar de rekening van Relai in Zwitserland via SEPA. Vergeet de **mededeling/omschrijving** niet bij jouw betaling. Zo kan jouw betaling makkelijk door Relai verwerkt worden.
+Je krijgt de details te zien van jouw aankoop. Doe met je bank een overschrijving naar de rekening van Relai in Zwitserland via SEPA. Vergeet de **mededeling/omschrijving** niet bij je betaling. Zo kan jouw betaling makkelijk door Relai verwerkt worden.
 
 ![relai-betaal](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibetaal.png?raw=true)
 
-Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze jouw bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
+Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze je bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
 
 ![sparen-met-relai](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiaankopen.png?raw=true)
 
 Lees: [Koop met Relai](https://bewijsvanwerk.com/koop-met-relai/){:target="_blank"} voor meer informatie over dit proces.
 
 ### Back-up maken van jouw portemonnee
-Het is belangrijk om te begrijpen dat jouw bitcoin niet bewaard worden in de app van Relai. Wat als je jouw toestel verliest? De bitcoin worden beheerd door jouw **persoonlijke sleutels** van jouw bitcoin portemonnee. Die sleutels bewaar je niet op je toestel maar **op papier**. We nemen een back-up van onze portemonnee door onze **wachtwoordzin** (12 woorden) te noteren met pen en papier.
+Het is belangrijk om te begrijpen dat jouw bitcoin niet bewaard worden in de app van Relai. Wat als je jouw toestel verliest? De bitcoin worden beheerd door jouw **persoonlijke sleutels** van je bitcoin portemonnee. Die sleutels bewaar je niet op je toestel maar **op papier**. We nemen een back-up van onze portemonnee door onze **wachtwoordzin** (12 woorden) te noteren met pen en papier.
 
 ![relai-backup](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibackup.png?raw=true)
 
