@@ -56,7 +56,7 @@ Het is belangrijk om te begrijpen dat jouw bitcoin niet bewaard worden in de app
 
 ![relai-backup](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibackup.png?raw=true)
 
-Relai toont je 12 woorden die dienen als wachtwoordzin voor jouw portemonnee. Dit zijn jouw sleutels. **Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen**. Zonder deze woorden (ook wel [*seed woorden*](faq.md#wat-zijn-seed-woorden?) genoemd) krijgt niemand toegang tot het geld in je spaarpotje.
+Relai toont je 12 woorden die dienen als wachtwoordzin voor jouw portemonnee. Dit zijn jouw sleutels. **Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen**. Zonder deze woorden (ook wel wachtwoordzin of [*seed woorden*](faq.md#wat-zijn-seed-woorden?) genoemd) krijgt niemand toegang tot het geld in je spaarpotje.
 
 ### Aankopen op vaste tijdstippen
 Je eerste aankoop zal niet onmiddellijk in jouw bezit zijn. Eerst moet de overschrijving vanaf jouw bankrekening ontvangen worden en vervolgens moeten de bitcoin door het netwerk verstuurd worden naar jouw persoonlijk bitcoin adres uit jouw wallet. Wanneer jouw eerste aankoop bevestigd is, kan je met een geruster hart een automatisch spaarplan instellen.
