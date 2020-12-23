@@ -7,7 +7,7 @@ disable_anchors: false
 
 ## Algemeen
 ### Wat is Bitcoin?
-Bitcoin is een [`peer-to-peer`](documentation/definities.md#peer-to-peer) netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar andere deelnemers op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden in tegenstelling tot ons gekende geld. Het is cash om te gebruiken op het internet.
+Bitcoin is een [`peer-to-peer`](definities.md#peer-to-peer) netwerk waar iedereen kan aan deelnemen. Het laat jou toe om op een veilige manier waarde op te slaan doorheen de tijd. Daarnaast stelt het jou in staat om die waarde te versturen naar andere deelnemers op het netwerk, wanneer je maar wilt en zonder afhankelijk te zijn van een derde partij. Het heeft een transparant en vast uitgifteschema dat niet zomaar aangepast kan worden in tegenstelling tot ons gekende geld. Het is cash om te gebruiken op het internet.
 
 ### Waarom is Bitcoin belangrijk?
 Het laat ons toe om over grenzen heen betalingen te doen die resistent zijn aan censuur en cryptografisch beveiligd zijn. Het is onze eerste en enige vorm van absolute digitale schaarste en wordt niet gecontroleerd door één enkele persoon of groep. Het kan dus niet gesaboteerd worden door overheden.

@@ -46,6 +46,7 @@ Via Relai kan je eenvoudig bitcoin kopen. Maar de wallet van Relai is niet echt 
 3. Kies het type wallet. Je hoeft hier niets aan te passen
 4. Druk op 'Create'
 5. Noteer de 12 woorden op papier. Bewaar dit op een veilige plaats.
+
 ------
 
 [Terug naar overzicht](overzicht.md) --
