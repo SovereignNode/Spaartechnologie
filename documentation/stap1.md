@@ -18,7 +18,7 @@ disable_anchors: true
 
 Vooraleer we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin kopen](images/stap1/relaiyoutube.png)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
+[![Bitcoin kopen](https://github.com/SovereignNode/Spaartechnologie/blob/master/assets/images/stap1/relai123.png)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
 
 Bitcoin kopen bij Relai is snel en eenvoudig.
 
