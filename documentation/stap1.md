@@ -18,7 +18,7 @@ disable_anchors: true
 
 Voor we beginnen kan je deze video bekijken om het proces beter te begrijpen (druk op de afbeelding).
 
-[![Bitcoin-kopen](assets/images/stap1/relai123.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
+[![Bitcoin-kopen](images/relai123.png?raw=true)](http://www.youtube.com/watch?v=ZfO3Gk2Zax8 "Hoe gebruik ik Relai"){:target="_blank"}{: .center-image}
 
 Bitcoin kopen bij Relai is snel en eenvoudig en gaat met een SEPA overschrijving.
 
