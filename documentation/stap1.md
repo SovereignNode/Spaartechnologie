@@ -36,15 +36,15 @@ Open de app en scroll door de boodschappen die getoond worden op het scherm. Acc
 
 Vervolgens doen we een aankoop. Onderaan in de app ga je naar het vierde tabblad (met de twee pijltjes). Voor onze eerste aankoop is het verstandig om met een klein bedrag te beginnen om het proces te leren kennen. Selecteer 20 EUR en ga verder naar de volgende stap.
 
-[image]
+![relai-koop](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaikoop.png?raw=true)
 
 Geef vervolgens jouw IBAN rekeningnummer (start met BE of NL) op en gebruik verwijzingscode **REL052** (0.5% korting). Controleer nogmaals of je jouw IBAN correct hebt doorgegeven en ga verder naar de volgende stap.
 
-[image]
+![relai-iban](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaiiban.png?raw=true)
 
 Je krijgt de details te zien van jouw aankoop. Doe met je bank een overschrijving naar de rekening van Relai in Zwitserland via SEPA. Vergeet de juiste mededeling niet toe te voegen die Relai toont bij aankoop. Zo kan jouw betaling makkelijk door Relai verwerkt worden.
 
-[image]
+![relai-betaal](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibetaal.png?raw=true)
 
 Gefeliciteerd! Van zodra Relai jouw SEPA overschrijving ontvangt (1-2 dagen), sturen ze jouw bitcoin op via het netwerk. De transactie wordt weldra door het netwerk bevestigd (1-5 uur).
 
@@ -55,7 +55,7 @@ Lees: [Koop met Relai](https://bewijsvanwerk.com/koop-met-relai/){:target="_blan
 ### Een back-up maken van jouw portemonnee
 Het is belangrijk om te begrijpen dat jouw bitcoin niet bewaard worden in de app van Relai. Wat als je jouw toestel verliest? Jouw bitcoin worden beheert door jouw persoonlijke sleutels van jouw bitcoin portemonnee. Die sleutels bewaar je beter **op papier**. We nemen een back-up van onze portemonnee door onze wachtwoordzin (12 woorden) op te schrijven.
 
-[image]
+![relai-backupn](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relaibackup.png?raw=true)
 
 Relai toont je de 12 woorden die dienen als wachtwoordzin voor jouw portemonnee. **Zolang je die woorden veilig houdt, kan niemand het geld uit jouw wallet stelen**. Zonder deze woorden (ook wel [*seed woorden*](faq.md#wat-zijn-seed-woorden?) genoemd) krijgt niemand toegang tot jouw spaarpotje.
 
