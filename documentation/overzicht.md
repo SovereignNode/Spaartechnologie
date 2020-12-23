@@ -5,9 +5,6 @@ show_in_menu: true
 disable_anchors: true
 ---
 
-Inhoudsopgave
-=============
-
 Bitcoin gebruiken
 -----------------
 
@@ -15,7 +12,7 @@ Bitcoin gebruiken
 
 [Stap 2 - Leer over bitcoin wallets](stap2.md)
 
-[Stap 3 - Begrijpen hoe transacties werken](stap3.md)
+[Stap 3 - Begrijp hoe transacties werken](stap3.md)
 
 [Stap 4 - Gebruik Lightning](stap4.md)
 
@@ -25,4 +22,37 @@ Bitcoin gebruiken
 Bitcoin begrijpen
 -----------------
 
-[Stap 6 - Leer meer over geld]
+[Leer meer over geld](geld.md)
+
+[Bitcoin nodes](node.md)
+
+[Blockchain](link)
+
+[Transacties](link)
+
+[Adressen](link)
+
+[Mining](link)
+
+[Privacy](link)
+
+[Cryptografie](link)
+
+Bitcoin beheersen
+-----------------
+
+[Hardware wallets](link)
+
+[Backup op metaal](link)
+
+[Maak zelf een seed](link)
+
+[Assymetrische cryptografie & PGP](pgp.md)
+
+[Een eigen node draaien](link)
+
+[Wallet verbinden met je node](link)
+
+[Kopen met Bisq](bisq.md)
+
+[CoinJoins](coinjoin.md)

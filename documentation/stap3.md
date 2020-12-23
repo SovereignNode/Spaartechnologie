@@ -23,5 +23,5 @@ Bitcoin is digitaal geld. De vraag wat geld precies is, kan niet simpel beantwoo
 
 ------
 
-[Verder gaan](stap4.md) --
-[Terug naar overzicht](overzicht.md)
+[Terug naar overzicht](overzicht.md) --
+[Verder gaan](stap4.md)
