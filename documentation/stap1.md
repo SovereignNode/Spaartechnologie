@@ -69,5 +69,5 @@ In de volgende stap leren we meer over bitcoin portemonees of *wallets*.
 
 ------
 
-[Verder gaan](stap2.md) --
-[Terug naar overzicht](overzicht.md)
+[Terug naar overzicht](overzicht.md) --
+[Verder gaan](stap2.md)
