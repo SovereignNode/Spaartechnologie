@@ -32,7 +32,7 @@ Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden)
 
 Download [Blue Wallet](https://bluewallet.io/){:target="_blank"} op je telefoon. De software is beschikbaar voor [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet){:target="_blank"} en voor [iOS](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040){:target="_blank"}.
 
-We maken een wallet aan door `Voeg nu toe` te kiezen. We willen de *seed woorden* van Relai importeren. Kies dus voor `Wallet importeren` onderaan in het menu.
+We maken een wallet aan door `Voeg nu toe` te kiezen. Kies voor `Wallet importeren` onderaan in het menu.
 
 ![bluewallet-toevoegen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwvoegtoe.png?raw=true)
 
@@ -40,11 +40,9 @@ Voer jouw 12 woorden in die je op papier noteerde in [Stap 1](stap1.md). Dit zij
 
 ![bluewallet-import](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwimport.png?raw=true)
 
-Nu gaat Blue Wallet aan de slag. De software leidt van jouw sleutels al jouw adressen af en zoekt naar je saldo. Wacht tot Blue Wallet je wallet met succes importeert.[^1]
+Nu gaat je wallet aan de slag. De software leidt van jouw sleutels al jouw adressen af en zoekt naar je saldo. Wacht tot Blue Wallet je wallet met succes importeert.[^1]
 
 [^1]: Jij hebt voorlopig nog geen kopie van alle transacties. Je deelt dus al jouw adressen mee aan Blue Wallet waarmee zij kunnen controleren hoeveel bitcoin in je wallet zitten. Dit is slecht voor jouw privacy. Later zullen we zien hoe je dit kan verbeteren.
-
-![bluewallet-succes](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwsucces.png?raw=true)
 
 Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt op het netwerk afgedwongen met sleutels. De 12 *seed woorden* (*mnemonic* of geheugensteun) die Relai toonde zijn een voorstelling van die sleutels. Door deze woorden in Blue Wallet in te geven kan je ook in Blue Wallet deze bitcoin bekijken en uitgeven.
 
@@ -54,8 +52,6 @@ Als laatste stap passen we nog wat instellingen aan van onze wallet. Druk op de 
 
 * Geef de wallet een naam (bvb 'Relai')
 * Bekijk je back-up via `Exporteren / Back-up maken`. Dit zijn de woorden die we reeds op papier hebben
-* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB** via `Toon wallet XPUB`. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
-
 
 ![bluewallet-walletsettings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletsettings.png?raw=true)
 
@@ -77,8 +73,11 @@ Noteer de 12 woorden die getoond worden op het scherm **op papier**. Bewaar dit 
 
 ![bluewallet-seed](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwseed.png?raw=true)
 
+In de volgende stap gaan we aan de slag met onze wallets en doen we zelf een eerste transactie.
 
 ------
 
 [Terug naar overzicht](overzicht.md) --
 [Verder gaan](stap3.md)
+
+------
