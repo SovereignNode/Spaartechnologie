@@ -46,18 +46,38 @@ Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-ou
 
 ## Stuur bitcoin naar je spaarrekening
 
-1. Open Relai en ga naar het tweede tabblad (met het Bitcoin logo).
-2. Druk op 'send BTC' om jouw transactie voor te bereiden.
-3. Kies 'BTC', 'slow' en druk op 'max' en bevestig met next.
-4. Open BlueWallet en ga naar jouw Spaarpotje
-5. Druk op 'receive'
-6. Scan de QR-code of kopieer het adres. Indien beide wallets op hetzelfde toestel staan, kan je de QR-code niet gebruiken.
-7. Plak het adres van de ontvanger in de Relai app. Opgelet: vóór het adres staat bitcoin:. Dit stuk moet je verwijderen zodat Relai het adres correct herkent. Druk op 'next'
-8. **Controleer** nogmaals dat dit adres juist is en bevestig met 'confirm'. De transactie wordt nu verstuurd naar het netwerk.
-10. In BlueWallet zie je de transactie reeds verschijnen. Let op: deze transactie werd nog niet bevestigd (conf: 0). Gemiddeld iedere 10 minuten wordt een nieuwe blok met transacties toegevoegd aan de ketting. De ruimte is beperkt dus hoe meer transactiekosten je betaalt, hoe sneller miners jouw transactie zullen toevoegen in de ketting van blokken. Je kan pas spreken van een bevestigde betaling wanneer je minstens 1 confirmatie hebt.
-11. Druk op de transactie en ga naar details.
-12. Voeg een notitie toe zodat je in de toekomst makkelijk herkent waar deze bitcoins vandaan kwamen. Druk op 'save'
-Bitcoin is digitaal geld. De vraag wat geld precies is, kan niet simpel beantwoord worden. Al honderden jaren zijn we op zoek naar het antwoord en misschien is er zelfs geen correct antwoord. Maar de zoektocht op zich is zeker al de moeite waard. We spenderen vele jaren van ons leven aan werk om geld te verdienen en iedere transactie die we doen wordt geintermedieerd door geld. Toch kunnen we de vraag vaak moeilijk beantwoorden. Het loont de moeite om daar eens wat meer over na te denken.
+Open Blue Wallet en navigeer naar je spaarrekening. Kies `Ontvang` en druk op het adres dat getoond wordt. Het adres wordt gekopieerd naar het klembord. Een adres ziet er als volgt uit:
+
+~~~
+bc1qun4eca6h3yrl2ss483frzz8jk6pgrmh2frlfj3
+~~~
+
+Open de rekening van Relai binnen de Blue Wallet app. Kies vervolgens `Verstuur` en plak het adres in de voorziene ruimte.[^1]
+
+[^1]: blijf drukken in de ruimte voor het adres en kies `Plakken` of `Paste`.
+
+We kiezen het bedrag om te versturen. Tik rechtsboven op de drie puntjes en selecteer `Gebruik volledige saldo`.
+
+![bluewallet-send](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-send.png?raw=true)
+
+Kies een notitie (die enkel voor jezelf is en niet wordt meegestuurd in de transactie). Het kan nuttig zijn om de oorsprong van de bitcoin te noteren (bvb. 'Van Relai').
+
+Vervolgens kiezen we een transactiekost of *fee*. De ruimte in blokken is beperkt. Hoe hoger de fee die je betaalt, hoe sneller de miners jouw transactie zullen kiezen om aan de ketting toe te voegen. Echter, aangezien we naar onze eigen rekening sturen, hebben we geen haast. Druk op het groene vak en kies een lage fee.
+
+![bluewallet-send-fee](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-send-fee.png?raw=true)
+
+Druk op `Volgende`. Je krijg nog een overzicht van de transactie. Kies `Nu verzenden` om de transactie te versturen naar het netwerk. Je krijgt een bevestiging en kan op `Klaar` drukken.
+
+![bluewallet-send-confirm](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-send-confirm.png?raw=true)
+
+Het kan even duren voor je wallet de inkomende transactie herkent. Voorlopig blijf je saldo van je spaarrekening op 0 staan. Wanneer miners de transactie in een blok plaatsen zal het bedrag verhoogd worden. Tot die tijd geeft je wallet enkel de transactie met als kenmerk `In afwachting`. Even geduld...
+
+![bluewallet-send-done](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-send-done.png?raw=true)
+
+Gefeliciteerd! Je hebt zonet je eerste bitcoin transactie verstuurd. Om te begrijpen wat er nu precies gebeurt met deze transactie moeten we iets dieper ingaan op de verschillende rollen die de leden op het netwerk vervullen.
+
+## Transactiekosten, mempools, miners en blokken
+
 
 
 ------
