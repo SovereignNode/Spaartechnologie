@@ -20,7 +20,7 @@ Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere 
 |         |          | output 3 | 0.08 BTC |
 |         |          |          |          |
 | **totaal** | **0.40 BTC** | **totaal**  | **0.38 BTC** |
-|         |          |  **fee**   |   0.02 BTC       |
+|         |          |  **fee**   |   **0.02 BTC**       |
 
 
 De inputs die in een transactie worden uitgegeven bevatten een handtekening van de sleutels van hun eigenaar. Zo'n digitale handtekening kan door iedereen op het netwerk eenvoudig gecontroleerd worden. De handtekening hoef je niet zelf te maken. Dit doet de software voor jou.
