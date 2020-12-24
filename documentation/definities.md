@@ -53,8 +53,8 @@ Satoshi Nakamoto is de naam die gebruikt werd door de persoon (of personen) die 
 ### transactie
 In simpele verwoording is een transactie een transfer van bitcoin van een adres naar een ander. Meer precies is een transactie een ondertekende structuur van data die een expressie is van een transfer van waarde. Transacties worden uitgestuurd over het netwerk, ontvangen door miners en meegenomen in blokken waardoor ze permanent op de blokchain komen te staan.
 
-### unspent transaction output (UTXO)
-Een UTXO is een ongespendeerde output die nog kan uitgegeven worden als input in een nieuwe transactie.
+### unspent transaction output
+Een *unspent transaction output* (**UTXO**) is een ongespendeerde output die nog kan uitgegeven worden als input in een nieuwe [transactie](definities.md#transactie).
 
 ### wallet
 Een wallet is software die al jouw bitcoin adressen en geheime sleutels beheert. Je gebruikt een wallet om jouw bitcoin te ontvangen, te versturen en te bekijken.

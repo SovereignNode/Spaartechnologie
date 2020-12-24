@@ -8,7 +8,7 @@ disable_anchors: true
 * Een bitcoin transactie is tekst die met het netwerk gedeeld wordt
 * De transactie vertelt het netwerk dat de eigenaar van de sleutels de overdracht van bitcoins autoriseerd
 * Om een transactie te versturen betaal je een vergoeding aan miners
-* Een transactie is pas bevestigd indien een miner ze toevoegd aan een blok
+* Een transactie is pas bevestigd indien een miner ze toevoegt aan een blok
 
 ## Hoe werkt een transactie?
 Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere transactie bevat `inputs` en `outputs`. De inputs debiteren een specifiek adres met bitcoin op. Aan de andere kant van de transactie staan outputs die dan weer adressen crediteren met bitcoin. De som van de inputs is niet gelijk aan de som van de outputs. Het verschil is de transactiekost die miners ontvangen.
@@ -18,8 +18,9 @@ Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere 
 | input 1 | 0.10 BTC | output 2 | 0.10 BTC |
 | input 2 | 0.30 BTC | output 2 | 0.20 BTC |
 |         |          | output 2 | 0.08 BTC |
-|:-----   | :-----   | :-----   | :-----   |
-| totaal  | 0.40 BTC | totaal   | 0.38 BTC |
+|         |          |          |          |
+| **totaal**  | **0.40 BTC** | **totaal**   | **0.38 BTC** |
+
 
 ~~~
 impliciete transactiekost = inputs - outputs = 0.02 BTC
@@ -29,7 +30,7 @@ De inputs die in een transactie worden uitgegeven bevatten een handtekening van 
 
 Veel bitcoin transacties zullen wisselgeld bevatten als output. De inputs kunnen namelijk niet gedeeld worden. Wanneer je in de winkel met een biljet van €20 betaalt voor een product van €5 dan krijg je €15 terug. Hetzelfde geldt voor bitcoin transacties. Gebruik je een input van 1BTC voor een betaling van 0.1BTC dan gebruik je de volledige input van 1BTC en stuur je 0.9BTC terug naar een adres van jezelf (min transactiekost).
 
-Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs van de transactie toont de nieuwe bestemming voor het geld en kan eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we *Unspent Transaction Outputs* (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
+Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs van de transactie toont de nieuwe bestemming voor het geld en kan eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we [*Unspent Transaction Outputs*](definities.md#unspent-transaction-output) (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
 
 ## Stuur bitcoin naar je spaarrekening
 
