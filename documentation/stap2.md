@@ -54,7 +54,7 @@ Als laatste stap passen we nog wat instellingen aan van onze wallet. Druk op de 
 
 * Geef de wallet een naam (bvb 'Relai')
 * Bekijk je back-up via `Exporteren / Back-up maken`. Dit zijn de woorden die we reeds op papier hebben
-* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB**. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
+* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB** via `Toon wallet XPUB`. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
 
 
 ![bluewallet-walletsettings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletsettings.png?raw=true)
@@ -65,13 +65,18 @@ Je kan op het saldo drukken om de weergave te veranderen van BTC naar EUR (of [s
 
 
 ### Maak een nieuwe wallet aan in Blue Wallet
-Via Relai kan je eenvoudig bitcoin kopen. Maar de wallet van Relai is niet echt handig. Er ontbreekt veel functionaliteit die we van een goeie wallet verwachten. Daarom gebruiken we een tweede wallet die beter voldoet aan onze eisen. In bovenstaand deel downloaden we reeds de app van Blue Wallet. Nu maken we een nieuwe portemonnee aan en nemen we opnieuw een back-up van onze *seed woorden* van die portemonnee.
+Via Relai kan je eenvoudig bitcoin kopen. Maar de wallet van Relai is niet echt handig. Er ontbreekt veel functionaliteit die we van een goeie wallet verwachten.[^2] Daarom gebruiken we een tweede wallet die beter voldoet aan onze eisen. In bovenstaand deel downloaden we reeds de app van Blue Wallet. Nu maken we een nieuwe portemonnee aan en nemen we opnieuw een back-up van onze *seed woorden* van die portemonnee.
 
-1. Druk op 'Add now'
-2. Geef de wallet een naam (bvb. Spaarpotje)
-3. Kies het type wallet. Je hoeft hier niets aan te passen
-4. Druk op 'Create'
-5. Noteer de 12 woorden op papier. Bewaar dit op een veilige plaats.
+[^2]: Relai gebruikt slechts 1 adres van jouw wallet. Dit is geen goeie gewoonte en slecht voor je privacy. Een bitcoin wallet kan een quasi-oneindig aantal adressen afleiden van jouw *seed*. Het is beter om telkens een nieuw adres af te leiden. Daarnaast biedt Blue Wallet extra opties zoals replace-by-fee (RBF) en coin-selection. Later leren we meer over deze begrippen.
+
+Druk opnieuw op  `Voeg nu toe`. Geef de wallet een naam (bvb. 'Sparen') en kies het type van de wallet. We behouden de eerste optie in de lijst. Druk vervolgens op `Aanmaken`.
+
+![bluewallet-nieuwewallet](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-nieuwewallet.png?raw=true)
+
+Noteer de 12 woorden die getoond worden op het scherm **op papier**. Bewaar dit op een veilige plaats.
+
+![bluewallet-seed](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwseed.png?raw=true)
+
 
 ------
 
