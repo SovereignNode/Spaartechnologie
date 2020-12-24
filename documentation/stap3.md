@@ -23,7 +23,7 @@ Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere 
 
 
 ~~~
-impliciete **transactiekost** = inputs - outputs = 0.02 BTC
+transactiekost = inputs - outputs = 0.02 BTC
 ~~~
 
 De inputs die in een transactie worden uitgegeven bevatten een handtekening van de sleutels van hun eigenaar. Zo'n digitale handtekening kan door iedereen op het netwerk eenvoudig gecontroleerd worden. De handtekening hoef je niet zelf te maken. Dit doet de software voor jou.
@@ -39,7 +39,7 @@ Veel bitcoin transacties zullen wisselgeld bevatten als output. De inputs kunnen
 
 
 ~~~
-impliciete **transactiekost** = inputs - outputs = 0.002 BTC
+transactiekost = inputs - outputs = 0.002 BTC
 ~~~
 
 Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs van de transactie toont de nieuwe bestemming voor het geld en kan eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we [*Unspent Transaction Outputs*](definities.md#unspent-transaction-output) (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
