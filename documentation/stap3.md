@@ -15,20 +15,32 @@ Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere 
 
 | input   | waarde   | output   | waarde   |
 |:-----   | :-----   | :-----   | :-----   |
-| input 1 | 0.10 BTC | output 2 | 0.10 BTC |
+| input 1 | 0.10 BTC | output 1 | 0.10 BTC |
 | input 2 | 0.30 BTC | output 2 | 0.20 BTC |
-|         |          | output 2 | 0.08 BTC |
+|         |          | output 3 | 0.08 BTC |
 |         |          |          |          |
 | **totaal**  | **0.40 BTC** | **totaal**   | **0.38 BTC** |
 
 
 ~~~
-impliciete transactiekost = inputs - outputs = 0.02 BTC
+impliciete **transactiekost** = inputs - outputs = 0.02 BTC
 ~~~
 
 De inputs die in een transactie worden uitgegeven bevatten een handtekening van de sleutels van hun eigenaar. Zo'n digitale handtekening kan door iedereen op het netwerk eenvoudig gecontroleerd worden. De handtekening hoef je niet zelf te maken. Dit doet de software voor jou.
 
 Veel bitcoin transacties zullen wisselgeld bevatten als output. De inputs kunnen namelijk niet gedeeld worden. Wanneer je in de winkel met een biljet van €20 betaalt voor een product van €5 dan krijg je €15 terug. Hetzelfde geldt voor bitcoin transacties. Gebruik je een input van 1BTC voor een betaling van 0.1BTC dan gebruik je de volledige input van 1BTC en stuur je 0.9BTC terug naar een adres van jezelf (min transactiekost).
+
+| input   | waarde   | output   | waarde   |
+|:-----   | :-----   | :-----   | :-----   |
+| input 1 | 1.0  BTC | output 1 | 0.10 BTC |
+|         |          | output 2 | 0.898 BTC |
+|         |          |          |          |
+| **totaal**  | **1.0 BTC** | **totaal**   | **0.998 BTC** |
+
+
+~~~
+impliciete **transactiekost** = inputs - outputs = 0.002 BTC
+~~~
 
 Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs van de transactie toont de nieuwe bestemming voor het geld en kan eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we [*Unspent Transaction Outputs*](definities.md#unspent-transaction-output) (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
 
