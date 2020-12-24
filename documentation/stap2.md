@@ -21,7 +21,7 @@ In de [Stap 1](stap1.md) gebruikten we reeds een bitcoin wallet. Je geld is niet
 
 [infographic]
 
-## Importeer je sleutels in Blue Wallet
+## Blue Wallet
 *Doel: Importeer de wallet uit Stap 1 in Blue Wallet en maak nieuwe wallet aan.*
 
 We gebruiken opnieuw een [mobile wallet](faq.md#wat-is-een-mobile-wallet) voor je telefoon. Relai is een *niet-beheerde* of [*non-custodial*](faq.md#wat-is-een-non-custodial-wallet) wallet aangezien je een back-up nam van de 12 woorden die getoond werden. Dit is in tegenstelling tot een *beheerde* of [*custodial*](faq.md#wat-is-een-custodial-wallet) wallet die de sleutels van de wallet in jouw plaats beheert. In dit laatste geval kan je niet zeggen dat je effectief eigenaar bent van je bitcoin. Je hangt namelijk af van een derde partij die jullie afspraak moet nakomen en je de bitcoins moet geven wanneer je erom vraagt. Gebruik altijd *niet-beheerde* wallets -- **niet jouw sleutels, niet jouw bitcoin**.
