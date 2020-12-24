@@ -32,6 +32,9 @@ Een digitale vingerafdruk van een bepaalde binaire input.
 ### miner
 Een miner is een node op het netwerk die valide proof-of-work oplossingen zoekt voor nieuwe blokken. Dit doet een miner door herhaaldelijk te hashen tot een juiste oplossing wordt gevonden.
 
+### mempool
+TBC
+
 ### moeilijkheidsgraad
 Een instelling op het netwerk die bepaald hoeveel computatie vereist is om een proof-of-work te produceren.
 
