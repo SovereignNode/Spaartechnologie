@@ -55,6 +55,8 @@ Als laatste stap passen we nog wat instellingen aan van onze wallet. Druk op de 
 
 ![bluewallet-settings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwsettings.png?raw=true)
 
+
+
 ![bluewallet-walletsettings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletsettings.png?raw=true)
 
 Je kan op het saldo drukken om de weergave te veranderen van BTC naar EUR (of [sats](definities.md#satoshi))
