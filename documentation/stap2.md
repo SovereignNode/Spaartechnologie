@@ -49,12 +49,12 @@ Nu gaat Blue Wallet aan de slag. De software leidt van jouw sleutels al jouw adr
 Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt op het netwerk afgedwongen met sleutels. De 12 *seed woorden* (*mnemonic* of geheugensteun) die Relai toonde zijn een voorstelling van die sleutels. Door deze woorden in Blue Wallet in te geven kan je ook in Blue Wallet deze bitcoin bekijken en uitgeven.
 
 Als laatste stap passen we nog wat instellingen aan van onze wallet. Druk op de aangemaakte wallet en ga naar het instellingen-menu rechtsboven.
-* Geef de wallet een naam (bvb 'Relai')
-* Bekijk je back-up via `Exporteren / Back-up maken`. Dit zijn de woorden die we reeds op papier hebben
-* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB**. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
 
 ![bluewallet-settings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwsettings.png?raw=true)
 
+* Geef de wallet een naam (bvb 'Relai')
+* Bekijk je back-up via `Exporteren / Back-up maken`. Dit zijn de woorden die we reeds op papier hebben
+* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB**. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
 
 
 ![bluewallet-walletsettings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletsettings.png?raw=true)
