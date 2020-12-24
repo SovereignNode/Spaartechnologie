@@ -17,14 +17,14 @@ Een bitcoin [wallet](faq.md#wat-is-een-wallet) is net zoals een portemonnee. Het
 
 Een bitcoin [wallet](definities.md#wallet) beheert de **sleutels** die nodig zijn om te ontvangen en te versturen via de blockchain.
 
-In de [vorige stap](stap1.md) gebruikten we reeds een bitcoin wallet. Je geld is niet opgeslagen in de app van Relai. Je kan de back-up van die wallet gebruiken in een andere wallet om je saldo te bekijken, adressen aan te maken of om bitcoin te versturen. Zolang je de **seed woorden** of back-up van jouw sleutels hebt voor het adres waar je bitcoin op staan, kan je ze uitgeven.
+In de [Stap 1](stap1.md) gebruikten we reeds een bitcoin wallet. Je geld is niet opgeslagen in de app van Relai. Je kan de back-up van die wallet gebruiken in een andere wallet om je saldo te bekijken, adressen aan te maken of om bitcoin te versturen. Zolang je de **seed woorden** of back-up van jouw sleutels hebt voor het adres waar je bitcoin op staan, kan je ze uitgeven.
 
 [infographic]
 
 ## Importeer je sleutels in Blue Wallet
 *Doel: Importeer de wallet uit Stap 1 in Blue Wallet en maak nieuwe wallet aan.*
 
-We gebruiken opnieuw een [mobile wallet](faq.md#wat-is-een-mobile-wallet) voor je telefoon. In [Stap 1](documentation/stap1.md) maakten we reeds onze eerste wallet aan. Relai is een *niet-beheerde* of [*non-custodial*](faq.md#wat-is-een-non-custodial-wallet) wallet aangezien je een back-up nam van de 12 woorden die getoond werden. Dit is in tegenstelling tot een *beheerde* of [*custodial*](faq.md#wat-is-een-custodial-wallet) wallet die de sleutels van de wallet in jouw plaats beheert. In dit laatste geval kan je niet zeggen dat je effectief eigenaar bent van je bitcoin. Je hangt namelijk af van een derde partij die jullie afspraak moet nakomen en je de bitcoins moet geven wanneer je erom vraagt. Gebruik altijd *niet-beheerde* wallets -- **niet jouw sleutels, niet jouw bitcoin**.
+We gebruiken opnieuw een [mobile wallet](faq.md#wat-is-een-mobile-wallet) voor je telefoon. Relai is een *niet-beheerde* of [*non-custodial*](faq.md#wat-is-een-non-custodial-wallet) wallet aangezien je een back-up nam van de 12 woorden die getoond werden. Dit is in tegenstelling tot een *beheerde* of [*custodial*](faq.md#wat-is-een-custodial-wallet) wallet die de sleutels van de wallet in jouw plaats beheert. In dit laatste geval kan je niet zeggen dat je effectief eigenaar bent van je bitcoin. Je hangt namelijk af van een derde partij die jullie afspraak moet nakomen en je de bitcoins moet geven wanneer je erom vraagt. Gebruik altijd *niet-beheerde* wallets -- **niet jouw sleutels, niet jouw bitcoin**.
 
 Om te beginnen importeren we deze [*seed woorden*](faq.md#wat-zijn-seed-woorden) die we als back-up kregen van Relai in Blue Wallet. Dit toont aan dat je geld dus niet opgeslagen wordt in een app op je smartphone. Jouw bitcoin worden beheerd door de woorden die je neerpende.
 
@@ -50,12 +50,16 @@ Je hebt nu dezelfde wallet op twee plaatsen. De eigendom van jouw bitcoin wordt 
 
 Als laatste stap passen we nog wat instellingen aan van onze wallet. Druk op de aangemaakte wallet en ga naar het instellingen-menu rechtsboven.
 * Geef de wallet een naam (bvb 'Relai')
-* Bekijk je back-up via `Exporteren / Back-up`. Dit zijn de woorden die we reeds op papier hebben
-* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of XPUB. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
+* Bekijk je back-up via `Exporteren / Back-up maken`. Dit zijn de woorden die we reeds op papier hebben
+* Bekijk je [uitgebreide publieke sleutel](faq.md#wat-is-een-xpub) of **XPUB**. Met deze sleutel kan je het saldo van jouw wallet bekijken maar kan je geen transacties versturen.
 
 ![bluewallet-settings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwsettings.png?raw=true)
 
 ![bluewallet-walletsettings](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletsettings.png?raw=true)
+
+Je kan op het saldo drukken om de weergave te veranderen van BTC naar EUR (of [sats](definities.md#satoshi))
+
+![bluewallet-walletdone](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bwwalletdone.png?raw=true)
 
 
 ### Maak een nieuwe wallet aan in Blue Wallet
