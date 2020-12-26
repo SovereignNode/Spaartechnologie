@@ -29,7 +29,27 @@ Betalingen voor koffie zullen niet op de basislaag van Bitcoin kunnen. Het is ni
 Genoeg gepraat. We gaan Lightning gebruiken!
 
 ### Jouw Lightning wallet opladen
-TBC
+Een Lightning wallet aanmaken en opladen met Blue Wallet is kinderspel.
+
+**Let op**: plaats geen grote bedragen in deze wallet. Blue Wallet gebruikt voor Lightning een [**custodial**](faq.md#wat-is-een-custodial-wallet) wallet. Dit betekent dat je de sleutels niet meer zelf beheert. Blue Wallet doe dit voor jou achter de schermen.
+
+Ga terug naar de app van Blue Wallet. We maken opnieuw een nieuwe wallet aan. Kies voor `Voeg nu toe` en selecteer `Lightning` (tweede optie). Geef de wallet een naam en druk op `Aanmaken`.
+
+![ln-create](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-create.png?raw=true)
+
+Blue Wallet toont je een back-up. Dit is geen kopie van *seed woorden* maar dient enkel voor authenticatie bij Blue Wallet indien je de wallet wil herstellen. **Blue wallet beheert het geld dat in deze wallet**.
+
+![ln-backup](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-backup.png?raw=true)
+
+Je komt opnieuw terecht in het hoofdmenu. Open de Lightning wallet en kies voor `fondsen beheren`. Kies vervolgens voor `Bijvullen`.
+![ln-menu](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-menu.png?raw=true)
+
+![ln-bijvullen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-bijvullen.png?raw=true)
+
+Kies de wallet van waaruit je het geld wilt versturen. Bepaal het bedrag om te sturen. Met de twee pijltjes kan je wisselen tussen BTC, sats of €. Kies opnieuw een *fee* voor de transactie. Druk op `Volgende` en `Nu verzenden`.
+![ln-tx](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-tx.png?raw=true)
+
+Nu wachten we af tot de transactie wordt bevestigd. In de volgende stap kunnen we hiermee aan de slag.
 
 ------
 
