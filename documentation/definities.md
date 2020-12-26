@@ -36,7 +36,7 @@ Een miner is een node op het netwerk die valide proof-of-work oplossingen zoekt 
 TBC
 
 ### moeilijkheidsgraad
-Een instelling op het netwerk die bepaald hoeveel computatie vereist is om een proof-of-work te produceren.
+Een instelling op het netwerk die bepaalt hoeveel computatie vereist is om een proof-of-work te produceren.
 
 ### open-source
 De software van Bitcoin is open-source of open-broncode. Dit betekent dat iedereen kan lezen hoe het programma werkt. Dit is in tegenstelling tot closed-source of gesloten-broncode waarvan gebruikers niet kunnen achterhalen wat de software precies doet.
