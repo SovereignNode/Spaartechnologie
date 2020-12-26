@@ -37,7 +37,9 @@ Ga terug naar de app van Blue Wallet. We maken opnieuw een nieuwe wallet aan. Ki
 
 ![ln-create](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-create.png?raw=true)
 
-Blue Wallet toont je een back-up. Dit is geen kopie van *seed woorden* maar dient enkel voor authenticatie bij Blue Wallet indien je de wallet wil herstellen. **Blue wallet beheert het geld dat in deze wallet**.
+Blue Wallet toont je een back-up. Dit is geen kopie van *seed woorden* maar dient enkel voor authenticatie bij Blue Wallet indien je de wallet wil herstellen. Neem een foto van deze back-up of kopieer de URL die onderaan getoond wordt.
+
+**Blue wallet beheert het geld in deze wallet**.
 
 ![ln-backup](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-backup.png?raw=true)
 
@@ -46,7 +48,7 @@ Je komt opnieuw terecht in het hoofdmenu. Open de Lightning wallet en kies voor 
 
 ![ln-bijvullen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-bijvullen.png?raw=true)
 
-Kies de wallet van waaruit je het geld wilt versturen. Bepaal het bedrag om te sturen. Met de twee pijltjes kan je wisselen tussen BTC, sats of €. Kies opnieuw een *fee* voor de transactie. Druk op `Volgende` en `Nu verzenden`.
+Kies de wallet van waaruit je het geld wil overmaken. Bepaal het bedrag om te versturen naar de Lightning wallet. Met de twee pijltjes kan je wisselen tussen BTC, sats of €. Kies opnieuw een *fee* voor de transactie. Druk op `Volgende` en `Nu verzenden`.
 ![ln-tx](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/ln-tx.png?raw=true)
 
 Nu wachten we af tot de transactie wordt bevestigd. In de volgende stap kunnen we hiermee aan de slag.
