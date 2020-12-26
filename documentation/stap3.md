@@ -104,9 +104,19 @@ Tot slot, bekijken we nog eens wat er in een blok zit. De blokken worden aangedu
 
 In totaal ontvang de miner 7,17 BTC aan beloning. Dit bedrag bestaat uit 6,25 BTC *bloksubsidie* en 0,92 BTC aan *fee's*. De eerste transactie in iedere blok bevat de *coinbase-transactie*. Deze transactie ontgint de nieuwe bitcoin en stuurt ze naar een adres van de miner. Alle andere transacties zijn van gebruikers die bitcoin willen versturen en daar vaak een hoge *fee* voor over hebben.
 
-------
+## Transactie versnellen
+Met Blue Wallet is het mogelijk om een transactie sneller te laten bevestigen. Je stuurt dan een nieuwe transactie met een iets hogere fee. Deze tweede transactie stuurt het geld van je eerste adres (dat nog niet bevestigd is) naar een nieuw adres in jouw wallet. Druk op de transactie die nog `In afwachting` is en kies voor `Bump fee`. Selecteer een gepaste transactiekost en kies `Creëer`. In het volgende scherm druk je op `Nu verzenden`.
 
-Bevestigde transactie
+![bw-rbf](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf.png?raw=true)
+![bw-rbf-fee](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf-fee.png?raw=true)
+![bw-rbf-confirm](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf-confirm.png?raw=true)
+![bw-rbf-show](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf-show.png?raw=true)
+
+We kunnen opnieuw controleren op [mempool.space](https://mempool.space/nl/) hoe de status van onze transactie is.
+
+![mempool-rbf](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/mempool-rbf.png?raw=true)
+
+De transactie werd bevestigd in een blok en staat op een [nieuw adres](https://mempool.space/nl/address/bc1q726u37zg6dpgzcjrqufj2pc7eahhjfxppm9eqw) waar onze wallet ook de sleutels van beheert. Het eerste adres ontving de bitcoin en stuurde ze onmiddellijk opnieuw uit.
 
 ------
 
