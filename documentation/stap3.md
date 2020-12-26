@@ -118,6 +118,9 @@ We kunnen opnieuw controleren op [mempool.space](https://mempool.space/nl/) hoe 
 
 De transactie werd bevestigd in een blok en staat op een [nieuw adres](https://mempool.space/nl/address/bc1q726u37zg6dpgzcjrqufj2pc7eahhjfxppm9eqw) waar onze wallet ook de sleutels van beheert. Het eerste adres ontving de bitcoin en stuurde ze onmiddellijk opnieuw uit.
 
+![bw-rbf-done](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf-done.png?raw=true)
+
+
 ------
 
 [Terug naar overzicht](overzicht.md) --
