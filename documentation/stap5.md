@@ -7,8 +7,10 @@ disable_anchors: true
 
 ## Betalen met bitcoin
 
-### Kippen voederen
-Ga naar [pollofeed](https://pollofeed.com/) en druk op `Click to feed!`. Scan de QR-code of kies `Open in wallet`. Betaal de Lightning-factuur en ga terug naar de website.
+### Kippen voederen met Lightning
+![pollofeed.png](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/pollofeed.png?raw=true)
+
+Ga naar de website van [pollofeed](https://pollofeed.com/) en druk op `Click to feed!`. Scan de QR-code of kies `Open in wallet`. Betaal de Lightning-factuur met Blue Wallet en ga terug naar de website.
 
 ### Doneren
 
@@ -32,8 +34,8 @@ Ga naar [pollofeed](https://pollofeed.com/) en druk op `Click to feed!`. Scan de
 </button></form>
 
 ### Stuur een bericht de ruimte in
+Ga naar de website van [Blockstream](https://blockstream.com/satellite-queue/) en geef het bericht in dat je via satelliet wil versturen.
 
-Ga naar de website van [Blockstream](https://blockstream.com/satellite-queue/) en geef het bericht in dat je wil versturen.
 ~~~
 Ik stuurde net een bericht de ruimte in - betaald met Lightning.
 
@@ -44,5 +46,5 @@ Kies een fee en betaal de Lightning-factuur.
 
 ---
 
-[Verder gaan](stap6.md) --
-[Terug naar overzicht](overzicht.md)
+[Terug naar overzicht](overzicht.md) --
+[Verder gaan](stap6.md)
