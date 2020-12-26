@@ -67,7 +67,7 @@ Gefeliciteerd! Je hebt zonet je eerste bitcoin transactie verstuurd. Om te begri
 
 ## Fee's, mempools, miners en blokken
 
-Waneer je de details van de onbevestigde transactie bekijkt kan je een transactie-ID terugvinden. Deze *Txid* kan je opzoeken op een [*block explorer*](faq.md#wat-is-een-block-explorer). We gebruiken [mempool.space](https://mempool.space/nl/){:target="_blank"}.
+Waneer je de details van de onbevestigde transactie bekijkt kan je een transactie-ID terugvinden. Deze *Txid* kan je opzoeken in een [*block explorer*](faq.md#wat-is-een-block-explorer). We gebruiken [mempool.space](https://mempool.space/nl/){:target="_blank"}.
 
 Bovenstaande transactie kan je [hier](https://mempool.space/nl/tx/bc5a6570e677d4614c648e4e82c7984ff205ed80e85fc27dae848addf41cd974) bekijken. Wanneer je vanuit je wallet een transactie verstuurt dan komt dit terecht in een pot met onbevestigde transacties. Dit noemen we de [*mempool*](definities.md#mempool). Op enkele seconden tijd wordt de transactie naar alle uithoeken op de wereld gestuurd. Iedereen die een zogenaamde Bitcoin [*node*](faq.md#wat-is-een-node) draait, ontvangt dit en stuurt het door naar andere *nodes*. Er is dus niet één mempool maar wel heel veel verschillende mempools.
 
