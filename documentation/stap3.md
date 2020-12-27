@@ -11,7 +11,7 @@ disable_anchors: true
 * Een transactie is pas bevestigd indien een miner ze toevoegt aan een blok
 
 ## Hoe werkt een transactie?
-Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. Iedere transactie bevat `inputs` en `outputs`. De inputs debiteren een specifiek adres met bitcoin op. Aan de andere kant van de transactie staan outputs die dan weer [adressen](definities.md#adres) crediteren met bitcoin. De som van de inputs is niet gelijk aan de som van de outputs. Het verschil is een vergoeding of *fee* die [*miners*](definities.md#miners) ontvangen.
+Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. **Iedere transactie bevat inputs en outputs**. De inputs debiteren een specifiek adres met bitcoin op. Aan de andere kant van de transactie staan outputs die dan weer [adressen](definities.md#adres) crediteren met bitcoin. De som van de inputs is niet gelijk aan de som van de outputs. Het verschil is een vergoeding of *fee* die [*miners*](definities.md#miners) ontvangen.
 
 | input      | waarde       | output      | waarde       |
 |:-----      | :-----       | :-----      | :-----       |
