@@ -8,7 +8,8 @@ disable_anchors: true
 ## Principes
 
 * Belangrijke begrippen staan **vetgedrukt**
-* Engelse termen staan *cursief* en worden uitgelegd via [een link naar definities](documentation/definities.md)
-* Wat je in apps gebruikt, krijgt `deze stijl`
+* Engelse termen staan *cursief*
+* Belangrijke begrippen worden uitgelegd via [een link naar definities](documentation/definities.md)
+* Specifieke handelingen in apps worden aangeduid met `deze stijl`
 
 [Verder gaan](documentation/overzicht.md)
