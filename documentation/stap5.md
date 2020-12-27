@@ -8,7 +8,9 @@ disable_anchors: true
 ## Kippen voederen met Lightning
 ![pollofeed.png](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/pollofeed.png?raw=true)
 
-Ga naar de website van [pollofeed](https://pollofeed.com/) en druk op `Click to feed!`. Scan de QR-code of kies `Open in wallet`. Betaal de Lightning-factuur met Blue Wallet en ga terug naar de website.
+Het Lightning netwerk staat nog in zijn kinderschoenen. De meeste toepassingen zijn hobby-projecten om te tonen wat mogelijk is met deze technologie. Eentje daarvan is PolloFeed. Voor het ronde bedrag van 50 sats kan je ergens op deze aardbol een aantal kippen van eten voorzien.
+
+Ga naar de website van [pollofeed](https://pollofeed.com/) en druk op `Click to feed!`. Scan de QR-code of kies `Open in wallet`. Betaal de Lightning-factuur met Blue Wallet en ga terug naar de website om te kijken of de kippen honger hebben.
 
 ## Steun deze site
 
@@ -34,15 +36,14 @@ Ga naar de website van [pollofeed](https://pollofeed.com/) en druk op `Click to 
 ## Stuur een bericht de ruimte in
 Ga naar de website van [Blockstream](https://blockstream.com/satellite-queue/) en geef het bericht in dat je via satelliet wil versturen.
 
-~~~
-Ik stuurde net een bericht de ruimte in - betaald met Lightning.
+> Ik stuurde net een bericht de ruimte in - betaald met Lightning.
+>
+> Ga naar spaartechnologie.com om Bitcoin te leren.
 
-Ga naar spaartechnologie.com om Bitcoin te leren.
-~~~
 
-Kies een fee en betaal de Lightning-factuur.
+Kies een fee en betaal de Lightning-factuur om een bericht de ruimte in te beamen met bitcoin.
 
 ---
 
 [Terug naar overzicht](overzicht.md) --
-[Verder gaan](stap6.md)
+[Verder gaan](inschrijven.md)

@@ -22,37 +22,37 @@ Bitcoin gebruiken
 Bitcoin begrijpen
 -----------------
 
-[Leer meer over geld](geld.md)
+[Leer meer over geld](inschrijven.md)
 
-[Bitcoin nodes](node.md)
+[Bitcoin nodes](inschrijven.md)
 
-[Blockchain](link)
+[Blockchain](inschrijven.md)
 
-[Transacties](link)
+[Transacties](inschrijven.md)
 
-[Adressen](link)
+[Adressen](inschrijven.md)
 
-[Mining](link)
+[Mining](inschrijven.md)
 
-[Privacy](link)
+[Privacy](inschrijven.md)
 
-[Cryptografie](link)
+[Cryptografie](inschrijven.md)
 
 Bitcoin beheersen
 -----------------
 
-[Hardware wallets](link)
+[Hardware wallets](inschrijven.md)
 
-[Backup op metaal](link)
+[Backup op metaal](inschrijven.md)
 
-[Maak zelf een seed](link)
+[Maak zelf een seed](inschrijven.md)
 
-[Assymetrische cryptografie & PGP](pgp.md)
+[Assymetrische cryptografie & PGP](inschrijven.md)
 
-[Een eigen node draaien](link)
+[Een eigen node draaien](inschrijven.md)
 
-[Wallet verbinden met je node](link)
+[Wallet verbinden met je node](inschrijven.md)
 
-[Kopen met Bisq](bisq.md)
+[Kopen met Bisq](inschrijven.md)
 
-[CoinJoins](coinjoin.md)
+[CoinJoins](inschrijven.md)
