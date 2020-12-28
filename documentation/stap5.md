@@ -34,14 +34,11 @@ Ga naar de website van [pollofeed](https://pollofeed.com/) en druk op `Click to 
 </button></form>
 
 ## Stuur een bericht de ruimte in
-Ga naar de website van [Blockstream](https://blockstream.com/satellite-queue/) en geef het bericht in dat je via satelliet wil versturen.
+Ga naar de website van [Blockstream](https://blockstream.com/satellite-queue/) en kies `Broadcast a Transmission`. Geef het bericht in dat je via satelliet wil versturen.
 
-> Ik stuurde net een bericht de ruimte in - betaald met Lightning.
->
-> Ga naar spaartechnologie.com om Bitcoin te leren.
+> Ik stuurde net een bericht de ruimte in met Lightning. Ga naar spaartechnologie.com om Bitcoin te leren.
 
-
-Kies een fee en betaal de Lightning-factuur om een bericht de ruimte in te beamen met bitcoin.
+Druk op `Next: Bid Your Price`. Betaal de Lightning-factuur om een bericht de ruimte in te beamen met bitcoin. Via [deze](https://t.me/blockstream_satellite_feed) Telegram groep kan je de verstuurde berichten bekijken.
 
 ---
 
