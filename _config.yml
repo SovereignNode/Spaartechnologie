@@ -1,6 +1,6 @@
 #theme: jekyll-theme-minimal
 # remote_theme: allejo/jekyll-docs-theme@v1.0.0
-theme: jekyll-docs-theme
+theme: minima
 
 # name of the software
 name: Spaartechnologie
