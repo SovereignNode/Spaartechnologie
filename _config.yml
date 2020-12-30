@@ -8,7 +8,6 @@ name: Spaartechnologie
 links:
   header:
     - title: Bewijs van Werk
-      icon: home
       brand: true
       url: https://bewijsvanwerk.com/
   homepage:
@@ -21,9 +20,9 @@ links:
       icon: github
       brand: true
       url: https://github.com/SovereignNode/Spaartechnologie
-    - title: Contact
+    - title: Problemen
       icon: bug
-      url: https://twitter.com/sovereignhodler
+      url: https://github.com/SovereignNode/Spaartechnologie/issues
 
 ui:
   mode: 'auto' # 'auto', 'dark', 'light'
@@ -51,10 +50,10 @@ ui:
 
 social:
   twitter:
-    enabled: true
+    enabled: false
     via:
     hash:
     account:
   facebook:
-    enabled: true
+    enabled: false
     profileUrl:

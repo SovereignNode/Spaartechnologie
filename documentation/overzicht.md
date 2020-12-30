@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: full
 title: Overzicht
 show_in_menu: true
 disable_anchors: true
