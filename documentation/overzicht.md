@@ -5,7 +5,7 @@ show_in_menu: true
 disable_anchors: true
 ---
 
-Bitcoin gebruiken
+Inhoudsopgave
 -----------------
 
 [Stap 1 - Koop bitcoin](stap1.md)
