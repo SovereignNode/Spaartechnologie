@@ -21,7 +21,7 @@ Bitcoin kopen bij Relai is snel en eenvoudig en werkt met een SEPA overschrijvin
 
 1. Download de app.
 2. Kies een bedrag om aan te kopen.
-3. Schrijf geld over met je bank en ontvang bitcoin in je portemonnee.
+3. Schrijf geld over via je bank en ontvang bitcoin in je portemonnee.
 
 ![relai-in-3-stappen](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/relai123.png?raw=true)
 
@@ -60,9 +60,9 @@ Je eerste aankoop zal niet onmiddellijk in jouw bezit zijn. Eerst moet de oversc
 
 Bitcoin is zeer volatiel. Proberen om een juist moment te kiezen om aan te kopen is zeer riskant. De beste manier om aan te kopen is om **gespreid doorheen de tijd kleine hoeveelheden te kopen** zonder naar de prijs te kijken. Dit kan makkelijk met Relai. Stel een wekelijkse of maandelijkse opdracht in en bespaar jezelf een hoop stress. Vergeet de referral code **REL052** niet om 0.5% te besparen op kosten.
 
-Het bedrag van jouw spaarplan kan ik niet voor je bepalen. Denk eens na over je maandelijkse inkomsten en uitgaven. Hoeveel kan je iedere maand sparen? Hoeveel daarvan wil je graag sparen in bitcoin? Hou ook rekening met het feit dat bitcoin zeer volatiel is. Je hebt dus best een lange tijdshorizon. Bitcoin kopen met de bedoeling om binnen een paar maanden terug te verkopen is geen goed idee. Zet opzij wat je kan missen en probeer het minstens vier jaar aan te houden. Hou rekening met eventuele belangrijke aankopen die voor jouw in het verschiet liggen zoals de aankoop van een huis of belastingsaanslagen. Het zou jammer zijn om je spaarpotje te moeten gebruiken op een slecht moment.
+Het bedrag van jouw spaarplan kan ik niet voor je bepalen. Denk eens na over je maandelijkse inkomsten en uitgaven. Hoeveel kan je iedere maand sparen? Hoeveel daarvan wil je graag sparen in bitcoin? Hou ook rekening met het feit dat bitcoin zeer volatiel is. Je hebt dus best een lange tijdshorizon. Bitcoin kopen met de bedoeling om binnen een paar maanden terug te verkopen is geen goed idee. Zet opzij wat je kan missen en probeer het minstens vier jaar aan te houden. Houd rekening met eventuele belangrijke aankopen die voor jouw in het verschiet liggen zoals de aankoop van een huis of belastingsaanslagen. Het zou jammer zijn om je spaarpotje te moeten gebruiken op een slecht moment.
 
-In de volgende stap leren we meer over bitcoin portemonees. We noemen een bitcoin portemonnee vanaf nu een [*wallet*](definities.md#wallet).
+In de volgende stap leren we meer over bitcoin portemonnees. We noemen dit vanaf nu een [*wallet*](definities.md#wallet).
 
 ------
 

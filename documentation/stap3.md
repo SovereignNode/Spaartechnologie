@@ -6,11 +6,11 @@ disable_anchors: true
 ---
 ## Principes
 * Een bitcoin transactie is tekst die met het netwerk gedeeld wordt
-* De transactie vertelt het netwerk dat de eigenaar van de sleutels de overdracht van bitcoins autoriseerd
+* De transactie vertelt het netwerk dat de eigenaar van de sleutels de overdracht van bitcoins autoriseert
 * Om een transactie te versturen betaal je een vergoeding aan miners
 * Een transactie is pas bevestigd indien een miner ze toevoegt aan een blok
 
-## Hoe werkt een transactie?
+## Begrijp hoe transacties werken
 Een bitcoin transactie werkt volgens het principe van dubbel-boekhouden. **Iedere transactie bevat inputs en outputs**. De inputs debiteren een specifiek adres met bitcoin op. Aan de andere kant van de transactie staan outputs die dan weer [adressen](definities.md#adres) crediteren met bitcoin. De som van de inputs is niet gelijk aan de som van de outputs. Het verschil is een vergoeding of *fee* die [*miners*](definities.md#miners) ontvangen.
 
 | input      | waarde       | output      | waarde       |
@@ -35,7 +35,7 @@ Veel bitcoin transacties zullen wisselgeld bevatten als output. De inputs kunnen
 | **totaal** | **1.0 BTC** | **totaal** | **0.998 BTC** |
 |            |             | **fee**    | **0.002 BTC** |
 
-Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs tonen de nieuwe bestemming voor het geld en kan eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we [*unspent transaction outputs*](definities.md#unspent-transaction-output) (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
+Samenvattend, sturen transacties waarde van transactie-inputs naar transactie-outputs. De gebruikte inputs zijn outputs van een vorige transactie en laten zien van waar het geld komt. De transactie-outputs tonen de nieuwe bestemming voor het geld en kunnen eventueel wisselgeld bevatten. De nieuw aangemaakte outputs kunnen vervolgens opnieuw gebruikt worden in een volgende transactie. Outputs die nog niet opnieuw uitgegeven werden noemen we [*unspent transaction outputs*](definities.md#unspent-transaction-output) (UTXO's). Het saldo van jouw wallet toont dus de som van UTXO's op adressen waar jij de sleutels van beheert.
 
 ## Stuur bitcoin naar je spaarrekening
 Open Blue Wallet en navigeer naar je spaarrekening. Kies `Ontvang` en druk op het adres dat getoond wordt. Het adres wordt gekopieerd naar het klembord. Een adres ziet er als volgt uit:
@@ -101,7 +101,7 @@ Tot slot, bekijken we nog eens wat er in een blok zit. De blokken worden aangedu
 
 ![block](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/mempool-block.png?raw=true)
 
-In totaal ontvang de miner 7,17 BTC aan beloning. Dit bedrag bestaat uit 6,25 BTC *bloksubsidie* en 0,92 BTC aan *fee's*. De eerste transactie in iedere blok bevat de [*coinbase*](definities.md#coinbase). Deze transactie ontgint de nieuwe bitcoin en stuurt ze naar een adres van de miner. Alle andere transacties zijn van gebruikers die bitcoin willen versturen en daar vaak een hoge *fee* voor over hebben.
+In totaal ontvangt de miner 7,17 BTC aan beloning. Dit bedrag bestaat uit 6,25 BTC *bloksubsidie* en 0,92 BTC aan *fee's*. De eerste transactie in iedere blok bevat de [*coinbase*](definities.md#coinbase). Deze transactie ontgint de nieuwe bitcoin en stuurt ze naar een adres van de miner. Alle andere transacties zijn van gebruikers die bitcoin willen versturen en daar vaak een hoge *fee* voor over hebben.
 
 ## Transactie versnellen
 Met Blue Wallet is het mogelijk om een transactie sneller te laten bevestigen. Je stuurt dan een nieuwe transactie met een iets hogere fee. Deze tweede transactie stuurt het geld van je eerste adres (dat nog niet bevestigd is) naar een nieuw adres in jouw wallet. Druk op de transactie die nog `In afwachting` is en kies voor `Bump fee`. Selecteer een gepaste transactiekost en kies `Creëer`. In het volgende scherm druk je op `Nu verzenden`.
@@ -120,7 +120,7 @@ De transactie werd bevestigd in een blok en staat op een [nieuw adres](https://m
 ![bw-rbf-done](https://github.com/SovereignNode/Spaartechnologie/blob/master/documentation/images/bw-rbf-done.png?raw=true)
 
 ------
-In dit deel leerden we meer over transacties. Om te begrijpen hoe het netwerk werkt en hoe transacties uitgevoerd worden moet je heel wat informatie opnemen. Laat je zeker niet ontmoedigen indien dit allemaal wat veel is. Je kan alvast het netwerk op een correcte manier gebruiken. Later zullen we nog terugkomen om de verschillende onderdelen van het netwerk zodat je beter begrijpt hoe alles in elkaar past.
+Om volledig te begrijpen hoe het Bitcoin netwerk werkt en hoe transacties exact uitgevoerd worden moet je heel wat informatie opnemen. Laat je zeker niet ontmoedigen indien de informatie in dit deel overweldigend is. Je kan alvast het netwerk op een correcte manier gebruiken.
 
 In het volgende deel leren we over Lightning dat gebruikt maakt van de bitcoin blockchain maar waar je niet telkens moet wachten op miners. Dit maakt het veel eenvoudiger om transacties te versturen.
 
