@@ -1,6 +1,7 @@
 ---
 layout: full
 homepage: false
+title: Spaartechnologie
 disable_anchors: true
 description: Starten met Bitcoin
 show_in_menu: false
