@@ -26,7 +26,7 @@ Een meer realistische optie om Bitcoin op te schalen is om te werken in verschil
 [infographic]
 
 ### Hoe werkt Lightning?
-Je kan Lightning best vergelijken met een rekening die je aanhoudt in jouw favoriete café. Jij, een vaste klant, en de barman besluiten om niet telkens af te rekenen met een betaling op de blockchain na iedere bestelling. Jullie klikken beiden een hoeveelheid Bitcoin vast in Lightning. Je behoudt controle over dit geld maar het staat niet meer klaar op de blockchain om uit te geven. Jullie openen een "kanaal" tussen jouw bitcoin en dat van de barman. Na iedere bestelling geven jullie aan elkaar door hoeveel je elkaar nog moet. Na een tijdje besluiten jullie af te rekenen en gaat het geld terug naar de blockchain.
+Je kan Lightning best vergelijken met een rekening die je aanhoudt in je favoriete café. Jij, een vaste klant, en de barman besluiten om niet telkens af te rekenen met een betaling op de blockchain na iedere bestelling. Jullie klikken beiden een hoeveelheid Bitcoin vast in Lightning. Je behoudt controle over dit geld maar het staat niet meer klaar op de blockchain om uit te geven. Jullie openen een "kanaal" tussen jouw bitcoin en dat van de barman. Na iedere bestelling geven jullie aan elkaar door hoeveel je elkaar nog moet. Na een tijdje besluiten jullie af te rekenen en gaat het geld terug naar de blockchain.
 
 Dit is wellicht iets te simplistisch maar dat is ongeveer hoe het werkt. In de toekomst kan ik hier zeker meer informatie over geven maar voorlopig volstaat dit. Lightning is dus een tweede laag bovenop de Bitcoin blockchain. Het geld verlaat het systeem niet maar wordt vastgezet voor een tijdje. Vervolgens wissel je informatie uit met elkaar over de huidige "staat" van jullie deel van het geld. Wanneer een partij wil afrekenen dan betaal je de transactiekost en sluit je het kanaal met een simpele transactie. Zo kan je verschillende bestellingen gedaan hebben en slechts 1 transactie op de blockchain nodig hebben.
 
@@ -34,10 +34,10 @@ Betalingen voor koffie zullen niet op de blockchain van Bitcoin kunnen. Het is n
 
 Genoeg gepraat. We gaan Lightning gebruiken!
 
-### Jouw Lightning wallet opladen
+### Een Lightning wallet opladen
 Een Lightning wallet aanmaken en opladen met Blue Wallet is kinderspel.
 
-**Let op**: plaats geen grote bedragen in deze wallet. Blue Wallet gebruikt voor Lightning een [*custodial*](definities.md#custodial) wallet. Dit betekent dat je de sleutels niet meer zelf beheert. Blue Wallet doe dit voor jou achter de schermen.
+**Let op**: plaats geen grote bedragen in deze wallet. Blue Wallet gebruikt voor Lightning een [*custodial*](definities.md#custodial) wallet. Dit betekent dat je de sleutels niet meer zelf beheert. Blue Wallet doet dit voor je achter de schermen.
 
 Ga terug naar de app van Blue Wallet. We maken opnieuw een nieuwe wallet aan. Kies voor `Voeg nu toe` en selecteer `Lightning` (tweede optie). Geef de wallet een naam en druk op `Aanmaken`.
 
