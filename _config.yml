@@ -5,22 +5,10 @@ theme: jekyll-docs-theme
 # name of the software
 name: Spaartechnologie
 
-project:
-  version: 1.0.0
-  download_url: https://github.com/allejo/jekyll-docs-theme/releases
-  download_text: Download
-
-license:
-  software: MIT License
-  software_url: https://opensource.org/licenses/MIT
-
-  docs: CC BY 3.0
-  docs_url: https://creativecommons.org/licenses/by/3.0/
-
 links:
   header:
     - title: Bewijs van Werk
-      icon: github
+      icon: home
       brand: true
       url: https://bewijsvanwerk.com/
   homepage:
