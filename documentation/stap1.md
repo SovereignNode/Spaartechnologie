@@ -55,6 +55,10 @@ Het is belangrijk om te begrijpen dat je bitcoin niet bewaard worden in de app v
 
 Relai toont je 12 woorden die dienen als wachtwoordzin voor jouw portemonnee. Dit zijn de sleutels van je kluis. **Zolang je de wachtwoordzin veilig houdt, kan niemand het geld uit je wallet stelen**. Zonder deze woorden (ook wel [*seed*](definities.md#seed) genoemd) krijgt niemand toegang tot het geld in je spaarpotje.
 
+De (unieke) *seed* vertegenwoordigd een zeer groot, uniek getal.[^1] Dit getal wordt gebruikt om sleutels en adressen te genereren. De sleutels en adressen zijn dus ook uniek voor je wallet. De eigenaar hoeft dus enkel de seed te bewaren en kan daarmee altijd opnieuw de adressen en sleutels terugvinden. Het unieke getal wordt omgezet (geëncodeerd) naar een wachtwoordzin van 12 of 24 woorden zodat je er makkelijk een back-up van kan nemen. Daarom wordt een *seed* ook wel een geheugensteun (of *mnemmonic*) genoemd.
+
+[^1]: Een seed is een zeer groot getal. Van de seed kunnen sleutels worden afgeleid die vereist zijn om je bitcoin opnieuw te versturen. Je kan dit getal ook zelf genereren: gooi een munt 256 keer op en noteer de uitkomst. Dit is de binaire notatie van een lukrake sleutel die je kan gebruiken in een bitcoin wallet. De ruimte waarbinnen zo'n uniek getal gekozen wordt (2^256 of 10^77) is vergelijkbaar met het aantal zichtbare atomen in ons universum (10^80).
+
 ### Aankopen op vaste tijdstippen
 Je eerste aankoop zal niet onmiddellijk in jouw bezit zijn. Eerst moet de overschrijving vanaf jouw bankrekening ontvangen worden en vervolgens moeten de bitcoin door het netwerk verstuurd worden naar je persoonlijk bitcoin adres uit je portemonnee. Wanneer jouw eerste aankoop bevestigd is, kan je met een geruster hart een automatisch spaarplan instellen.
 
